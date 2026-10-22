@@ -11,7 +11,7 @@
 <marker id="ark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4a5263"/></marker>
 </defs>
 <rect width="1800" height="1320" fill="url(#bg)"/>
-<text x="50" y="72" font-size="34" font-weight="700" fill="#141a26">Теплица · вариант A: KEF Q350 + активный сабвуфер</text>
+<text x="50" y="72" font-size="34" font-weight="700" fill="#141a26">Теплица · вариант A: KEF Q350, сабвуфер опционально</text>
 <text x="50" y="108" font-size="19" fill="#5b6475">CM82 + Volta LIVE 4.400 (зал) + CA602 (улица, туалет) · каждая зона со своим регулятором Lab.gruppen CRC-V</text>
 <rect x="1000" y="175" width="760" height="520" rx="22" fill="#c06a1d" fill-opacity="0.06" stroke="#c06a1d" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="8 6"/>
 <rect x="1022" y="158" width="165.0" height="34" rx="17" fill="#c06a1d"/>
@@ -61,8 +61,11 @@
 <text x="1300" y="529" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">KEF Q350 №4</text>
 <rect x="1254" y="538" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
 <text x="1300" y="553" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
-<line x1="1000" y1="640" x2="1090" y2="640" stroke="#c06a1d" stroke-width="3"/>
+<line x1="1000" y1="640" x2="1090" y2="640" stroke="#c06a1d" stroke-width="3" stroke-dasharray="9 7"/>
 <g filter="url(#sh)"><rect x="1090" y="598" width="300" height="84" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
+<rect x="1090" y="598" width="300" height="84" rx="16" fill="none" stroke="#c06a1d" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="1421.6" y="626" width="56.8" height="26" rx="13" fill="#c06a1d"/>
+<text x="1450" y="644" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">ОПЦИЯ</text>
 <rect x="1106" y="610" width="74" height="60" rx="7" fill="#2b2420"/>
 <circle cx="1143" cy="640" r="21" fill="#3a332e" stroke="#c06a1d" stroke-width="2.5"/><circle cx="1143" cy="640" r="7" fill="#c06a1d"/>
 <text x="1194" y="628" text-anchor="start" font-size="15" font-weight="700" fill="#141a26">Активный сабвуфер</text>
@@ -118,14 +121,14 @@
 <text x="699" y="500" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 2 · пара 2 · 4 Ом</text>
 <rect x="669" y="623" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
 <circle cx="685" cy="640" r="5" fill="#c06a1d"/>
-<text x="699" y="645" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 3 · сабвуфер</text>
+<text x="699" y="645" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 3 · саб (опция)</text>
 <rect x="669" y="663" width="222" height="26" rx="8" fill="#ffffff" fill-opacity="0.03"/>
 <text x="685" y="681" text-anchor="start" font-size="13" font-weight="500" fill="#8a93a6">Кан. 4 · резерв</text>
 <line x1="907" y1="330" x2="994" y2="330" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
 <text x="952.5" y="320" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">4 Ом</text>
 <line x1="907" y1="495" x2="994" y2="495" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
 <text x="952.5" y="485" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">4 Ом</text>
-<line x1="907" y1="640" x2="994" y2="640" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
+<line x1="907" y1="640" x2="994" y2="640" stroke="#c06a1d" stroke-width="3" stroke-dasharray="9 7" marker-end="url(#arh)"/>
 <text x="952.5" y="630" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">high-level</text>
 <g filter="url(#sh)"><rect x="655" y="820" width="250" height="370" rx="16" fill="url(#amp)" stroke="none"/></g>
 <text x="677" y="850" text-anchor="start" font-size="19" font-weight="700" fill="#ffffff">CA602</text>

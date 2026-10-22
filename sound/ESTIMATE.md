@@ -7,31 +7,67 @@
 
 | Вариант | Итого, ₽ |
 |---|---|
-| Вариант A: KEF Q350 + активный сабвуфер (Volta LIVE 4.400 + CA602) | **314 036** |
+| Вариант A: KEF Q350 на Volta LIVE 4.400 + CA602, сабвуфер опционально | **264 046** |
+| Вариант A2: то же с KEF Q150, сабвуфер опционально | **244 046** |
 | Вариант B: CVGaudio 100 В, самый простой (один M-123Tm) | **176 823** |
 | Вариант C: Lab.gruppen 100 В (CA2401 + CA602), сабвуфер опционально | **238 513** |
+| Вариант A + опция «сабвуфер» | **314 036** |
+| Вариант A2 + опция «сабвуфер» | **294 036** |
 | Вариант C + опция «сабвуфер» | **309 978** |
 
-## Вариант A: KEF Q350 + активный сабвуфер (Volta LIVE 4.400 + CA602)
+## Вариант A: KEF Q350 на Volta LIVE 4.400 + CA602, сабвуфер опционально
 
 | № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
 |---|---|---|---|---|---|---|
 | 1 | Lab.gruppen CM82, микшер 8×2 | 1 шт | 45 071 | 45 071 | [Pult.ru](https://www.pult.ru/product/miksher-lab-gruppen-cm82) |  |
-| 2 | Volta LIVE 4.400, зал: 2 пары KEF + сабвуфер | 1 шт | 31 626 | 31 626 | [Pult.ru](https://www.pult.ru/product/usilitel-moshchnosti-volta-live-4-400) | в наличии; встречалась цена 25 984 |
+| 2 | Volta LIVE 4.400, зал: 2 пары KEF (кан. 3 — под сабвуфер) | 1 шт | 31 626 | 31 626 | [Pult.ru](https://www.pult.ru/product/usilitel-moshchnosti-volta-live-4-400) | в наличии; встречалась цена 25 984 |
 | 3 | Lab.gruppen CA602, улица + туалет (2 × 60 Вт, 100 В) | есть | 35 330 | — | [Pult.ru](https://www.pult.ru/product/usilitel-lab-gruppen-lab-gruppen-ca602) | есть в наличии |
 | 4 | Lab.gruppen CRC-VEU, регулятор зоны | 3 шт | 6 510 | 19 530 | [Pult.ru](https://www.pult.ru/product/nastennyy-regulyator-lab-gruppen-lab-gruppen-crc-veu-bk) | зал, улица, туалет |
 | 5 | Рамка на 3 поста + подрозетники | 1 компл | 1 500 | 1 500 | — | оценка |
 | 6 | iPad | 1 шт | 25 000 | 25 000 | Авито | диапазон 17–25 тыс. |
 | 7 | KEF Q350, полочная акустика (пара) | 2 пара | 39 000 | 78 000 | [Audiomania](https://www.audiomania.ru/polochnaya_akustika/kef/kef_q350.html) | акция на Аудиомании |
-| 8 | Radiotehnika Alfa 1.04 MKII, активный сабвуфер 10″ | 1 шт | 49 990 | 49 990 | [Audiomania](https://www.audiomania.ru/subwoofer/radiotehnika/radiotehnika_alfa_1-04_mk_ii.html) | на Pult.ru нет |
-| 9 | CVGaudio OSR608TBL, улица, 100 В / 20 Вт, IP65 | 1 шт | 9 417 | 9 417 | [Pult.ru](https://www.pult.ru/product/ulichnaya-akusticheskaya-sistema-cvgaudio-osr608tbl) |  |
-| 10 | CVGaudio CRH608T, туалет, 100 В / 8 Вт | есть | 6 150 | — | [CVG](https://www.cvg.ru/catalog/potolochnye_vstraivaemye_akusticheskie_sistemy_100v/crh608t/) | есть в наличии |
-| 11 | Шкаф настенный 19″ 9U Wize Pro W9U45R | 1 шт | 17 869 | 17 869 | [Pult.ru](https://www.pult.ru/product/nastennyy-shkaf-wize-pro-w12u45r#about) |  |
-| 12 | Блок розеток 19″ 1U с выключателем | 1 шт | 1 755 | 1 755 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/blok-gembird-1-vhod-s14-8-evrorozetok-s-zaschitoj-dlya-19-c14-max-19-16a-1u-max19-eh8-0-1504402/) | Gembird MAX19-EH8 |
-| 13 | Кронштейн настенный металлический для планшетов 4–13″ | 1 шт | 2 278 | 2 278 | [Ozon](https://www.ozon.ru/product/nastennyy-metallicheskiy-dlya-planshetov-4-13-dyuymov-3445381273/) | под iPad |
-| 14 | Кабель: 2×1,5 (пары), 2×1,5 (саб, 100 В), уличный, Cat5e ×3 | 1 компл | 20 000 | 20 000 | — | примерно, нужен расчёт длины трасс |
-| 15 | Кронштейны для KEF, расходные материалы | 1 компл | 12 000 | 12 000 | — |  |
-| | **Итого** | | | **314 036** | | |
+| 8 | CVGaudio OSR608TBL, улица, 100 В / 20 Вт, IP65 | 1 шт | 9 417 | 9 417 | [Pult.ru](https://www.pult.ru/product/ulichnaya-akusticheskaya-sistema-cvgaudio-osr608tbl) |  |
+| 9 | CVGaudio CRH608T, туалет, 100 В / 8 Вт | есть | 6 150 | — | [CVG](https://www.cvg.ru/catalog/potolochnye_vstraivaemye_akusticheskie_sistemy_100v/crh608t/) | есть в наличии |
+| 10 | Шкаф настенный 19″ 9U Wize Pro W9U45R | 1 шт | 17 869 | 17 869 | [Pult.ru](https://www.pult.ru/product/nastennyy-shkaf-wize-pro-w12u45r#about) |  |
+| 11 | Блок розеток 19″ 1U с выключателем | 1 шт | 1 755 | 1 755 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/blok-gembird-1-vhod-s14-8-evrorozetok-s-zaschitoj-dlya-19-c14-max-19-16a-1u-max19-eh8-0-1504402/) | Gembird MAX19-EH8 |
+| 12 | Кронштейн настенный металлический для планшетов 4–13″ | 1 шт | 2 278 | 2 278 | [Ozon](https://www.ozon.ru/product/nastennyy-metallicheskiy-dlya-planshetov-4-13-dyuymov-3445381273/) | под iPad |
+| 13 | Кабель: 2×1,5 (пары), 2×1,5 (саб, 100 В), уличный, Cat5e ×3 | 1 компл | 20 000 | 20 000 | — | примерно, нужен расчёт длины трасс |
+| 14 | Кронштейны для KEF, расходные материалы | 1 компл | 12 000 | 12 000 | — |  |
+| | **Итого** | | | **264 046** | | |
+
+**Опция «сабвуфер»**
+
+| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
+|---|---|---|---|---|---|---|
+| 1 | Radiotehnika Alfa 1.04 MKII, активный сабвуфер 10″ | 1 шт | 49 990 | 49 990 | [Audiomania](https://www.audiomania.ru/subwoofer/radiotehnika/radiotehnika_alfa_1-04_mk_ii.html) | к каналу 3 Volta, розетка 230 В |
+| | **Итого опция** | | | **49 990** | | |
+
+## Вариант A2: то же с KEF Q150, сабвуфер опционально
+
+| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
+|---|---|---|---|---|---|---|
+| 1 | Lab.gruppen CM82, микшер 8×2 | 1 шт | 45 071 | 45 071 | [Pult.ru](https://www.pult.ru/product/miksher-lab-gruppen-cm82) |  |
+| 2 | Volta LIVE 4.400, зал: 2 пары KEF (кан. 3 — под сабвуфер) | 1 шт | 31 626 | 31 626 | [Pult.ru](https://www.pult.ru/product/usilitel-moshchnosti-volta-live-4-400) | в наличии; встречалась цена 25 984 |
+| 3 | Lab.gruppen CA602, улица + туалет (2 × 60 Вт, 100 В) | есть | 35 330 | — | [Pult.ru](https://www.pult.ru/product/usilitel-lab-gruppen-lab-gruppen-ca602) | есть в наличии |
+| 4 | Lab.gruppen CRC-VEU, регулятор зоны | 3 шт | 6 510 | 19 530 | [Pult.ru](https://www.pult.ru/product/nastennyy-regulyator-lab-gruppen-lab-gruppen-crc-veu-bk) | зал, улица, туалет |
+| 5 | Рамка на 3 поста + подрозетники | 1 компл | 1 500 | 1 500 | — | оценка |
+| 6 | iPad | 1 шт | 25 000 | 25 000 | Авито | диапазон 17–25 тыс. |
+| 7 | KEF Q150, полочная акустика (пара) | 2 пара | 29 000 | 58 000 | [Audiomania](https://www.audiomania.ru/polochnaya_akustika/kef/kef_q150.html) | акция на Аудиомании (было 52 000) |
+| 8 | CVGaudio OSR608TBL, улица, 100 В / 20 Вт, IP65 | 1 шт | 9 417 | 9 417 | [Pult.ru](https://www.pult.ru/product/ulichnaya-akusticheskaya-sistema-cvgaudio-osr608tbl) |  |
+| 9 | CVGaudio CRH608T, туалет, 100 В / 8 Вт | есть | 6 150 | — | [CVG](https://www.cvg.ru/catalog/potolochnye_vstraivaemye_akusticheskie_sistemy_100v/crh608t/) | есть в наличии |
+| 10 | Шкаф настенный 19″ 9U Wize Pro W9U45R | 1 шт | 17 869 | 17 869 | [Pult.ru](https://www.pult.ru/product/nastennyy-shkaf-wize-pro-w12u45r#about) |  |
+| 11 | Блок розеток 19″ 1U с выключателем | 1 шт | 1 755 | 1 755 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/blok-gembird-1-vhod-s14-8-evrorozetok-s-zaschitoj-dlya-19-c14-max-19-16a-1u-max19-eh8-0-1504402/) | Gembird MAX19-EH8 |
+| 12 | Кронштейн настенный металлический для планшетов 4–13″ | 1 шт | 2 278 | 2 278 | [Ozon](https://www.ozon.ru/product/nastennyy-metallicheskiy-dlya-planshetov-4-13-dyuymov-3445381273/) | под iPad |
+| 13 | Кабель: 2×1,5 (пары), 2×1,5 (саб, 100 В), уличный, Cat5e ×3 | 1 компл | 20 000 | 20 000 | — | примерно, нужен расчёт длины трасс |
+| 14 | Кронштейны для KEF, расходные материалы | 1 компл | 12 000 | 12 000 | — |  |
+| | **Итого** | | | **244 046** | | |
+
+**Опция «сабвуфер»**
+
+| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
+|---|---|---|---|---|---|---|
+| 1 | Radiotehnika Alfa 1.04 MKII, активный сабвуфер 10″ | 1 шт | 49 990 | 49 990 | [Audiomania](https://www.audiomania.ru/subwoofer/radiotehnika/radiotehnika_alfa_1-04_mk_ii.html) | к каналу 3 Volta, розетка 230 В |
+| | **Итого опция** | | | **49 990** | | |
 
 ## Вариант B: CVGaudio 100 В, самый простой (один M-123Tm)
 
