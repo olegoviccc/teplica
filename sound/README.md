@@ -3,11 +3,13 @@
 Во всех вариантах три зоны: **зал (4 колонки), улица (1 колонка) и туалет (1 потолочная колонка)**. Везде играет
 одна музыка, источник — **iPad на кронштейне** у шкафа, у каждой зоны свой регулятор громкости.
 
-**Для руководства:** [`Teplica-zvuk-proekt.pdf`](Teplica-zvuk-proekt.pdf) — проект на согласование по трём вариантам (рекомендуем A).
+**Для руководства:** [`Teplica-zvuk-proekt.pdf`](Teplica-zvuk-proekt.pdf) — проект на согласование по трём вариантам (рекомендуем A); 15 страниц, с фото колонок.
 **Смета:** [Google Sheets](https://docs.google.com/spreadsheets/d/1uV0goTIWzc8BjLMTEEd3xBQX1XKyCQEsck7-6BgJBb0/edit) — основной документ;
 копии: [ESTIMATE.md](ESTIMATE.md), [smeta-teplica.xlsx](smeta-teplica.xlsx).
 **Расстановка:** [`placement-plan.png`](placement-plan.png). **Место управления (iPad, регуляторы, шкаф):** [`wall-ipad-controls.png`](wall-ipad-controls.png).
-**Габариты сабвуфера и KEF:** [`sizes-sub-kef.png`](sizes-sub-kef.png).
+**Габариты сабвуфера и KEF:** [`sizes-sub-kef.png`](sizes-sub-kef.png). **Фото колонок** (KEF Q350/Q150 во всех цветах, CVGaudio OSR608): [`photos/`](photos/).
+
+Место управления: шкаф низом на 2000 мм (выше головы), iPad и три CRC-V рядом на высоте 1700 мм (выше плеча).
 
 | | **A** — [KEF Q350](A-kef-volta-sub/README.md) | **A2** — [KEF Q150](A2-kef-q150/README.md) | **B** — [CVGaudio 100 В](B-cvg-100v/README.md) | **C** — [Lab.gruppen 100 В](C-labgruppen-100v-sub/README.md) |
 |---|---|---|---|---|
