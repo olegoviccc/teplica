@@ -11,58 +11,63 @@
 <marker id="ark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4a5263"/></marker>
 </defs>
 <rect width="1800" height="1320" fill="url(#bg)"/>
-<text x="50" y="72" font-size="34" font-weight="700" fill="#141a26">Теплица · вариант A: Lab.gruppen, винтаж + сабвуфер</text>
-<text x="50" y="108" font-size="19" fill="#5b6475">Lab.gruppen CM82 + CA · каждая зона со своим регулятором Lab.gruppen CRC-V · одна музыка во всех зонах</text>
+<text x="50" y="72" font-size="34" font-weight="700" fill="#141a26">Теплица · вариант A: KEF Q350 + активный сабвуфер</text>
+<text x="50" y="108" font-size="19" fill="#5b6475">CM82 + Volta LIVE 4.400 (зал) + CA1202 (улица, туалет) · каждая зона со своим регулятором Lab.gruppen CRC-V</text>
 <rect x="1000" y="175" width="760" height="520" rx="22" fill="#c06a1d" fill-opacity="0.06" stroke="#c06a1d" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="8 6"/>
 <rect x="1022" y="158" width="165.0" height="34" rx="17" fill="#c06a1d"/>
 <text x="1104.5" y="181" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">ЗОНА «ЗАЛ»</text>
-<text x="1736" y="677" text-anchor="end" font-size="14" font-weight="400" fill="#5b6475">пары: 8 Ом ∥ 8 Ом = 4 Ом (или 4 Ом + 4 Ом = 8 Ом) · сабвуфер 8 Ом</text>
+<text x="1736" y="677" text-anchor="end" font-size="14" font-weight="400" fill="#5b6475">пара: 8 Ом ∥ 8 Ом = 4 Ом на канал</text>
 <rect x="1000" y="755" width="760" height="240" rx="22" fill="#2f8a4e" fill-opacity="0.06" stroke="#2f8a4e" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="8 6"/>
 <rect x="1022" y="738" width="190.0" height="34" rx="17" fill="#2f8a4e"/>
 <text x="1117.0" y="761" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">ЗОНА «УЛИЦА»</text>
-<text x="1736" y="977" text-anchor="end" font-size="14" font-weight="400" fill="#5b6475">2 × 30 Вт = 60 Вт · загрузка канала 25 %</text>
+<text x="1736" y="977" text-anchor="end" font-size="14" font-weight="400" fill="#5b6475">2 × 30 Вт = 60 Вт · загрузка канала 50 %</text>
 <rect x="1000" y="1030" width="760" height="225" rx="22" fill="#2f6fde" fill-opacity="0.06" stroke="#2f6fde" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="8 6"/>
 <rect x="1022" y="1013" width="202.5" height="34" rx="17" fill="#2f6fde"/>
 <text x="1123.25" y="1036" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">ЗОНА «ТУАЛЕТ»</text>
 <text x="1736" y="1237" text-anchor="end" font-size="14" font-weight="400" fill="#5b6475">2 × 8 Вт = 16 Вт</text>
-<line x1="1000" y1="300" x2="1300" y2="300" stroke="#c06a1d" stroke-width="3"/>
-<text x="1018" y="288" text-anchor="start" font-size="13" font-weight="700" fill="#c06a1d">ПАРА 1</text>
-<g filter="url(#sh)"><rect x="1088.0" y="230" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
-<rect x="1123" y="242" width="54" height="72" rx="6" fill="url(#wood)"/>
-<circle cx="1150" cy="258" r="6" fill="#2a2420" stroke="#e9dcc3" stroke-width="1.5"/>
-<circle cx="1150" cy="288" r="18" fill="#efe6d4" stroke="#2a2420" stroke-width="3"/><circle cx="1150" cy="288" r="5" fill="#cbbd9f"/>
-<text x="1150" y="334" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">Винтаж №1</text>
-<rect x="1104" y="343" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
-<text x="1150" y="358" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
-<g filter="url(#sh)"><rect x="1238.0" y="230" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
-<rect x="1273" y="242" width="54" height="72" rx="6" fill="url(#wood)"/>
-<circle cx="1300" cy="258" r="6" fill="#2a2420" stroke="#e9dcc3" stroke-width="1.5"/>
-<circle cx="1300" cy="288" r="18" fill="#efe6d4" stroke="#2a2420" stroke-width="3"/><circle cx="1300" cy="288" r="5" fill="#cbbd9f"/>
-<text x="1300" y="334" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">Винтаж №2</text>
-<rect x="1254" y="343" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
-<text x="1300" y="358" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
-<line x1="1000" y1="470" x2="1300" y2="470" stroke="#c06a1d" stroke-width="3"/>
-<text x="1018" y="458" text-anchor="start" font-size="13" font-weight="700" fill="#c06a1d">ПАРА 2</text>
-<g filter="url(#sh)"><rect x="1088.0" y="400" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
-<rect x="1123" y="412" width="54" height="72" rx="6" fill="url(#wood)"/>
-<circle cx="1150" cy="428" r="6" fill="#2a2420" stroke="#e9dcc3" stroke-width="1.5"/>
-<circle cx="1150" cy="458" r="18" fill="#efe6d4" stroke="#2a2420" stroke-width="3"/><circle cx="1150" cy="458" r="5" fill="#cbbd9f"/>
-<text x="1150" y="504" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">Винтаж №3</text>
-<rect x="1104" y="513" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
-<text x="1150" y="528" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
-<g filter="url(#sh)"><rect x="1238.0" y="400" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
-<rect x="1273" y="412" width="54" height="72" rx="6" fill="url(#wood)"/>
-<circle cx="1300" cy="428" r="6" fill="#2a2420" stroke="#e9dcc3" stroke-width="1.5"/>
-<circle cx="1300" cy="458" r="18" fill="#efe6d4" stroke="#2a2420" stroke-width="3"/><circle cx="1300" cy="458" r="5" fill="#cbbd9f"/>
-<text x="1300" y="504" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">Винтаж №4</text>
-<rect x="1254" y="513" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
-<text x="1300" y="528" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
-<line x1="1000" y1="625" x2="1090" y2="625" stroke="#c06a1d" stroke-width="3"/>
-<g filter="url(#sh)"><rect x="1090" y="585" width="270" height="80" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
-<rect x="1106" y="597" width="78" height="56" rx="7" fill="#232833"/>
-<circle cx="1145" cy="625" r="19" fill="#3a4150" stroke="#c06a1d" stroke-width="2.5"/><circle cx="1145" cy="625" r="6" fill="#c06a1d"/>
-<text x="1198" y="619" text-anchor="start" font-size="15" font-weight="700" fill="#141a26">Сабвуфер</text>
-<text x="1198" y="641" text-anchor="start" font-size="12.5" font-weight="600" fill="#c06a1d">Tannoy VSX 10BP · 8 Ом</text>
+<line x1="1000" y1="330" x2="1300" y2="330" stroke="#c06a1d" stroke-width="3"/>
+<text x="1018" y="318" text-anchor="start" font-size="13" font-weight="700" fill="#c06a1d">ПАРА 1</text>
+<g filter="url(#sh)"><rect x="1088.0" y="260" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
+<rect x="1124" y="272" width="52" height="72" rx="8" fill="#1e2128"/>
+<circle cx="1150" cy="310" r="19" fill="#c9cdd4" stroke="#8f96a3" stroke-width="2"/>
+<circle cx="1150" cy="310" r="8" fill="#b07a3a" stroke="#6b4a22" stroke-width="1.5"/>
+<circle cx="1150" cy="310" r="3" fill="#e8c27a"/>
+<text x="1150" y="364" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">KEF Q350 №1</text>
+<rect x="1104" y="373" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
+<text x="1150" y="388" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
+<g filter="url(#sh)"><rect x="1238.0" y="260" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
+<rect x="1274" y="272" width="52" height="72" rx="8" fill="#1e2128"/>
+<circle cx="1300" cy="310" r="19" fill="#c9cdd4" stroke="#8f96a3" stroke-width="2"/>
+<circle cx="1300" cy="310" r="8" fill="#b07a3a" stroke="#6b4a22" stroke-width="1.5"/>
+<circle cx="1300" cy="310" r="3" fill="#e8c27a"/>
+<text x="1300" y="364" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">KEF Q350 №2</text>
+<rect x="1254" y="373" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
+<text x="1300" y="388" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
+<line x1="1000" y1="495" x2="1300" y2="495" stroke="#c06a1d" stroke-width="3"/>
+<text x="1018" y="483" text-anchor="start" font-size="13" font-weight="700" fill="#c06a1d">ПАРА 2</text>
+<g filter="url(#sh)"><rect x="1088.0" y="425" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
+<rect x="1124" y="437" width="52" height="72" rx="8" fill="#1e2128"/>
+<circle cx="1150" cy="475" r="19" fill="#c9cdd4" stroke="#8f96a3" stroke-width="2"/>
+<circle cx="1150" cy="475" r="8" fill="#b07a3a" stroke="#6b4a22" stroke-width="1.5"/>
+<circle cx="1150" cy="475" r="3" fill="#e8c27a"/>
+<text x="1150" y="529" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">KEF Q350 №3</text>
+<rect x="1104" y="538" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
+<text x="1150" y="553" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
+<g filter="url(#sh)"><rect x="1238.0" y="425" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
+<rect x="1274" y="437" width="52" height="72" rx="8" fill="#1e2128"/>
+<circle cx="1300" cy="475" r="19" fill="#c9cdd4" stroke="#8f96a3" stroke-width="2"/>
+<circle cx="1300" cy="475" r="8" fill="#b07a3a" stroke="#6b4a22" stroke-width="1.5"/>
+<circle cx="1300" cy="475" r="3" fill="#e8c27a"/>
+<text x="1300" y="529" text-anchor="middle" font-size="14" font-weight="700" fill="#141a26">KEF Q350 №4</text>
+<rect x="1254" y="538" width="92" height="20" rx="10" fill="#c06a1d" fill-opacity="0.13"/>
+<text x="1300" y="553" text-anchor="middle" font-size="12" font-weight="600" fill="#c06a1d">8 Ом · пара ∥</text>
+<line x1="1000" y1="640" x2="1090" y2="640" stroke="#c06a1d" stroke-width="3"/>
+<g filter="url(#sh)"><rect x="1090" y="598" width="300" height="84" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
+<rect x="1106" y="610" width="74" height="60" rx="7" fill="#2b2420"/>
+<circle cx="1143" cy="640" r="21" fill="#3a332e" stroke="#c06a1d" stroke-width="2.5"/><circle cx="1143" cy="640" r="7" fill="#c06a1d"/>
+<text x="1194" y="628" text-anchor="start" font-size="15" font-weight="700" fill="#141a26">Активный сабвуфер</text>
+<text x="1194" y="648" text-anchor="start" font-size="12.5" font-weight="600" fill="#c06a1d">Radiotehnika Alfa 1.04 MKII</text>
+<text x="1194" y="666" text-anchor="start" font-size="12" font-weight="500" fill="#5b6475">вход высокого уровня · 230 В</text>
 <g filter="url(#sh)"><rect x="1530" y="215" width="212" height="118" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
 <rect x="1530" y="231" width="5" height="86" rx="2.5" fill="#7a4fd6"/>
 <rect x="1550" y="237" width="52" height="52" rx="8" fill="#f4f1fb" stroke="#d8cdf3" stroke-width="1.5"/>
@@ -93,7 +98,7 @@
 <line x1="1576" y1="838" x2="1584" y2="828" stroke="#7a4fd6" stroke-width="2.5" stroke-linecap="round"/>
 <text x="1614" y="832" text-anchor="start" font-size="17" font-weight="700" fill="#141a26">CRC-V</text>
 <text x="1614" y="854" text-anchor="start" font-size="12" font-weight="700" fill="#7a4fd6">громкость УЛИЦЫ</text>
-<text x="1550" y="888" text-anchor="start" font-size="12.5" font-weight="600" fill="#5b6475">RJ45 → CA2402, кан. 1</text>
+<text x="1550" y="888" text-anchor="start" font-size="12.5" font-weight="600" fill="#5b6475">RJ45 → CA1202, кан. A</text>
 <line x1="1000" y1="1140" x2="1220" y2="1140" stroke="#2f6fde" stroke-width="3"/>
 <g filter="url(#sh)"><rect x="1028.0" y="1070" width="124" height="140" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
 <rect x="1066" y="1082" width="48" height="70" rx="9" fill="#232833"/>
@@ -116,83 +121,82 @@
 <line x1="1576" y1="1133" x2="1584" y2="1123" stroke="#7a4fd6" stroke-width="2.5" stroke-linecap="round"/>
 <text x="1614" y="1127" text-anchor="start" font-size="17" font-weight="700" fill="#141a26">CRC-V</text>
 <text x="1614" y="1149" text-anchor="start" font-size="12" font-weight="700" fill="#7a4fd6">громкость ТУАЛЕТА</text>
-<text x="1550" y="1183" text-anchor="start" font-size="12.5" font-weight="600" fill="#5b6475">RJ45 → CA2402, кан. 2</text>
-<g filter="url(#sh)"><rect x="655" y="245" width="250" height="280" rx="16" fill="url(#amp)" stroke="none"/></g>
-<text x="677" y="275" text-anchor="start" font-size="19" font-weight="700" fill="#ffffff">CA1202</text>
-<text x="887" y="275" text-anchor="end" font-size="13" font-weight="600" fill="#aeb6c6">или CA602</text>
-<rect x="669" y="283" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
-<circle cx="685" cy="300" r="5" fill="#c06a1d"/>
-<text x="699" y="305" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 1 · 4/8 Ом · ФВЧ 80</text>
-<rect x="669" y="453" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
-<circle cx="685" cy="470" r="5" fill="#c06a1d"/>
-<text x="699" y="475" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 2 · 4/8 Ом · ФВЧ 80</text>
-<g filter="url(#sh)"><rect x="655" y="565" width="250" height="100" rx="16" fill="url(#amp)" stroke="none"/></g>
-<text x="677" y="595" text-anchor="start" font-size="19" font-weight="700" fill="#ffffff">CA2401</text>
-<text x="887" y="595" text-anchor="end" font-size="13" font-weight="600" fill="#aeb6c6">1 × 240 Вт</text>
-<rect x="669" y="618" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
-<circle cx="685" cy="635" r="5" fill="#c06a1d"/>
-<text x="699" y="640" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">8 Ом · ФВЧ выкл</text>
+<text x="1550" y="1183" text-anchor="start" font-size="12.5" font-weight="600" fill="#5b6475">RJ45 → CA1202, кан. B</text>
+<g filter="url(#sh)"><rect x="655" y="245" width="250" height="455" rx="16" fill="url(#amp)" stroke="none"/></g>
+<text x="677" y="277" text-anchor="start" font-size="19" font-weight="700" fill="#ffffff">Volta LIVE 4.400</text>
+<text x="677" y="299" text-anchor="start" font-size="13" font-weight="600" fill="#aeb6c6">4 × 300 Вт / 4 Ом · 1,5U</text>
+<rect x="669" y="313" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
+<circle cx="685" cy="330" r="5" fill="#c06a1d"/>
+<text x="699" y="335" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 1 · пара 1 · 4 Ом</text>
+<rect x="669" y="478" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
+<circle cx="685" cy="495" r="5" fill="#c06a1d"/>
+<text x="699" y="500" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 2 · пара 2 · 4 Ом</text>
+<rect x="669" y="623" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
+<circle cx="685" cy="640" r="5" fill="#c06a1d"/>
+<text x="699" y="645" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 3 · сабвуфер</text>
+<rect x="669" y="663" width="222" height="26" rx="8" fill="#ffffff" fill-opacity="0.03"/>
+<text x="685" y="681" text-anchor="start" font-size="13" font-weight="500" fill="#8a93a6">Кан. 4 · резерв</text>
+<line x1="907" y1="330" x2="994" y2="330" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
+<text x="952.5" y="320" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">4 Ом</text>
+<line x1="907" y1="495" x2="994" y2="495" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
+<text x="952.5" y="485" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">4 Ом</text>
+<line x1="907" y1="640" x2="994" y2="640" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
+<text x="952.5" y="630" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">high-level</text>
 <g filter="url(#sh)"><rect x="655" y="820" width="250" height="370" rx="16" fill="url(#amp)" stroke="none"/></g>
-<text x="677" y="850" text-anchor="start" font-size="19" font-weight="700" fill="#ffffff">CA2402</text>
-<text x="887" y="850" text-anchor="end" font-size="13" font-weight="600" fill="#aeb6c6">2 × 240 Вт</text>
+<text x="677" y="850" text-anchor="start" font-size="19" font-weight="700" fill="#ffffff">CA1202</text>
+<text x="887" y="850" text-anchor="end" font-size="13" font-weight="600" fill="#aeb6c6">2 × 120 Вт</text>
 <rect x="669" y="868" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
 <circle cx="685" cy="885" r="5" fill="#2f8a4e"/>
-<text x="699" y="890" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 1 · 100 В · ФВЧ 80</text>
+<text x="699" y="890" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. A · 100 В · ФВЧ 80</text>
 <rect x="669" y="1123" width="222" height="34" rx="9" fill="#ffffff" fill-opacity="0.06"/>
 <circle cx="685" cy="1140" r="5" fill="#2f6fde"/>
-<text x="699" y="1145" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. 2 · 100 В · ФВЧ 80</text>
-<line x1="907" y1="300" x2="994" y2="300" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
-<text x="952.5" y="290" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">4/8 Ом</text>
-<line x1="907" y1="470" x2="994" y2="470" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
-<text x="952.5" y="460" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">4/8 Ом</text>
-<line x1="907" y1="625" x2="994" y2="625" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
-<text x="952.5" y="615" text-anchor="middle" font-size="13" font-weight="700" fill="#c06a1d">8 Ом</text>
+<text x="699" y="1145" text-anchor="start" font-size="14" font-weight="600" fill="#e8ebf2">Кан. B · 100 В · ФВЧ 80</text>
 <line x1="907" y1="885" x2="994" y2="885" stroke="#2f8a4e" stroke-width="3" marker-end="url(#ars)"/>
 <text x="952.5" y="875" text-anchor="middle" font-size="13" font-weight="700" fill="#2f8a4e">100 В</text>
 <line x1="907" y1="1140" x2="994" y2="1140" stroke="#2f6fde" stroke-width="3" marker-end="url(#arw)"/>
 <text x="952.5" y="1130" text-anchor="middle" font-size="13" font-weight="700" fill="#2f6fde">100 В</text>
-<rect x="699.4" y="909" width="161.2" height="26" rx="13" fill="#ffffff" stroke="#7a4fd6" stroke-opacity="0.5"/>
-<text x="780.0" y="927" text-anchor="middle" font-size="12" font-weight="600" fill="#7a4fd6">RJ45 ← CRC-V «УЛИЦА»</text>
-<rect x="695.92" y="1164" width="168.16" height="26" rx="13" fill="#ffffff" stroke="#7a4fd6" stroke-opacity="0.5"/>
-<text x="780.0" y="1182" text-anchor="middle" font-size="12" font-weight="600" fill="#7a4fd6">RJ45 ← CRC-V «ТУАЛЕТ»</text>
+<rect x="682.29" y="909" width="195.42" height="26" rx="13" fill="#ffffff" stroke="#7a4fd6" stroke-opacity="0.5"/>
+<text x="780.0" y="927" text-anchor="middle" font-size="11.5" font-weight="600" fill="#7a4fd6">RJ45 «A+B» ← CRC-V «УЛИЦА»</text>
+<rect x="685.625" y="1164" width="188.75" height="26" rx="13" fill="#ffffff" stroke="#7a4fd6" stroke-opacity="0.5"/>
+<text x="780.0" y="1182" text-anchor="middle" font-size="11.5" font-weight="600" fill="#7a4fd6">RJ45 «B» ← CRC-V «ТУАЛЕТ»</text>
 <g filter="url(#sh)"><rect x="330" y="245" width="230" height="945" rx="16" fill="url(#amp)" stroke="none"/></g>
 <text x="445.0" y="285" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">CM82</text>
 <text x="445.0" y="310" text-anchor="middle" font-size="13" font-weight="500" fill="#aeb6c6">микшер · 8 вх / 2 вых</text>
-<rect x="346" y="674" width="198" height="58" rx="10" fill="#ffffff" fill-opacity="0.07"/>
-<text x="445.0" y="697" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Вход C (RCA)</text>
-<text x="445.0" y="719" text-anchor="middle" font-size="12.5" font-weight="600" fill="#aeb6c6">DIP: → выход A и B</text>
+<rect x="346" y="734" width="198" height="58" rx="10" fill="#ffffff" fill-opacity="0.07"/>
+<text x="445.0" y="757" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Вход C (RCA)</text>
+<text x="445.0" y="779" text-anchor="middle" font-size="12.5" font-weight="600" fill="#aeb6c6">DIP: → выход A и B</text>
 <rect x="346" y="434" width="198" height="58" rx="10" fill="#c06a1d" fill-opacity="0.22" stroke="#c06a1d" stroke-opacity="0.6"/>
 <text x="445.0" y="457" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Выход A</text>
-<text x="445.0" y="479" text-anchor="middle" font-size="12.5" font-weight="600" fill="#e8ebf2">ЗАЛ</text>
+<text x="445.0" y="479" text-anchor="middle" font-size="12.5" font-weight="600" fill="#e8ebf2">ЗАЛ + САБВУФЕР</text>
 <rect x="346" y="984" width="198" height="58" rx="10" fill="#4a9e8a" fill-opacity="0.22" stroke="#4a9e8a" stroke-opacity="0.6"/>
 <text x="445.0" y="1007" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Выход B</text>
 <text x="445.0" y="1029" text-anchor="middle" font-size="12.5" font-weight="600" fill="#e8ebf2">УЛИЦА + ТУАЛЕТ</text>
-<path d="M445.0 674 L445.0 494" stroke="#7d8597" stroke-width="2" stroke-dasharray="4 4"/>
-<path d="M445.0 732 L445.0 982" stroke="#7d8597" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M445.0 734 L445.0 542" stroke="#7d8597" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M445.0 792 L445.0 982" stroke="#7d8597" stroke-width="2" stroke-dasharray="4 4"/>
 <text x="445.0" y="1066" text-anchor="middle" font-size="12" font-weight="500" fill="#aeb6c6">мастер B — фиксирован</text>
 <rect x="371.36" y="506" width="147.27999999999997" height="26" rx="13" fill="#ffffff" stroke="#7a4fd6" stroke-opacity="0.5"/>
 <text x="445.0" y="524" text-anchor="middle" font-size="12" font-weight="600" fill="#7a4fd6">RJ45 ← CRC-V «ЗАЛ»</text>
 <line x1="560" y1="462" x2="600" y2="462" stroke="#c06a1d" stroke-width="3"/>
-<line x1="600" y1="300" x2="600" y2="635" stroke="#c06a1d" stroke-width="3"/>
-<line x1="600" y1="300" x2="649" y2="300" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
-<line x1="600" y1="470" x2="649" y2="470" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
-<line x1="600" y1="635" x2="649" y2="635" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
+<line x1="600" y1="330" x2="600" y2="640" stroke="#c06a1d" stroke-width="3"/>
+<line x1="600" y1="330" x2="649" y2="330" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
+<line x1="600" y1="495" x2="649" y2="495" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
+<line x1="600" y1="640" x2="649" y2="640" stroke="#c06a1d" stroke-width="3" marker-end="url(#arh)"/>
 <line x1="560" y1="1012" x2="600" y2="1012" stroke="#4a9e8a" stroke-width="3"/>
 <line x1="600" y1="885" x2="600" y2="1140" stroke="#4a9e8a" stroke-width="3"/>
 <line x1="600" y1="885" x2="649" y2="885" stroke="#2f8a4e" stroke-width="3" marker-end="url(#ars)"/>
 <line x1="600" y1="1140" x2="649" y2="1140" stroke="#2f6fde" stroke-width="3" marker-end="url(#arw)"/>
-<g filter="url(#sh)"><rect x="50" y="640" width="210" height="120" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
-<rect x="50" y="656" width="5" height="88" rx="2.5" fill="#4a5263"/>
-<rect x="72" y="672" width="44" height="56" rx="6" fill="#232833"/><polygon points="88,688 104,700 88,712" fill="#ffffff"/>
-<text x="128" y="694" text-anchor="start" font-size="17" font-weight="700" fill="#141a26">Плеер /</text>
-<text x="128" y="716" text-anchor="start" font-size="17" font-weight="700" fill="#141a26">стример</text>
-<text x="128" y="738" text-anchor="start" font-size="12.5" font-weight="500" fill="#5b6475">линейный выход</text>
-<line x1="262" y1="700" x2="324" y2="700" stroke="#4a5263" stroke-width="3" marker-end="url(#ark)"/>
-<text x="296" y="690" text-anchor="middle" font-size="12" font-weight="700" fill="#4a5263">RCA</text>
-<circle cx="56" cy="1293" r="5" fill="#7a4fd6"/>
-<text x="70" y="1298" text-anchor="start" font-size="14.5" font-weight="400" fill="#5b6475">CRC-V при максимуме = заданный при ПНР предел громкости зоны</text>
-<circle cx="594" cy="1293" r="5" fill="#7a4fd6"/>
-<text x="608" y="1298" text-anchor="start" font-size="14.5" font-weight="400" fill="#5b6475">Три CRC-V — рядом у бара, каждый своей витой парой до шкафа</text>
-<circle cx="1124" cy="1293" r="5" fill="#7a4fd6"/>
-<text x="1138" y="1298" text-anchor="start" font-size="14.5" font-weight="400" fill="#5b6475">Улица и туалет — колонки только на 100 В, не 8 Ом</text>
+<g filter="url(#sh)"><rect x="50" y="700" width="210" height="120" rx="16" fill="#ffffff" stroke="#e3e7ef"/></g>
+<rect x="50" y="716" width="5" height="88" rx="2.5" fill="#4a5263"/>
+<rect x="72" y="732" width="44" height="56" rx="6" fill="#232833"/><polygon points="88,748 104,760 88,772" fill="#ffffff"/>
+<text x="128" y="754" text-anchor="start" font-size="17" font-weight="700" fill="#141a26">Плеер /</text>
+<text x="128" y="776" text-anchor="start" font-size="17" font-weight="700" fill="#141a26">стример</text>
+<text x="128" y="798" text-anchor="start" font-size="12.5" font-weight="500" fill="#5b6475">линейный выход</text>
+<line x1="262" y1="760" x2="324" y2="760" stroke="#4a5263" stroke-width="3" marker-end="url(#ark)"/>
+<text x="296" y="750" text-anchor="middle" font-size="12" font-weight="700" fill="#4a5263">RCA</text>
+<circle cx="56" cy="1288" r="5" fill="#7a4fd6"/>
+<text x="70" y="1293" text-anchor="start" font-size="14.5" font-weight="400" fill="#5b6475">CRC-V «ЗАЛ» на выходе A микшера: пары и сабвуфер вместе</text>
+<circle cx="554" cy="1288" r="5" fill="#7a4fd6"/>
+<text x="568" y="1293" text-anchor="start" font-size="14.5" font-weight="400" fill="#5b6475">KEF Q350: 15–120 Вт — предел громкости ставим ручками Volta</text>
+<circle cx="1084" cy="1288" r="5" fill="#7a4fd6"/>
+<text x="1098" y="1293" text-anchor="start" font-size="14.5" font-weight="400" fill="#5b6475">Улица и туалет — колонки только на 100 В</text>
 </svg>
