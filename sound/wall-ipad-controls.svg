@@ -26,49 +26,63 @@
 <line x1="622.0" y1="365" x2="658.0" y2="365" stroke="#c0392b" stroke-width="3"/>
 <line x1="622.0" y1="1000" x2="658.0" y2="1000" stroke="#c0392b" stroke-width="3"/>
 <text x="618.0" y="694.5" text-anchor="end" font-size="34" font-weight="700" fill="#c0392b">635</text>
-<rect x="980" y="1000" width="40" height="192.25" fill="#e2ddd4" stroke="#b9b1a3" stroke-width="3"/>
-<text x="1040" y="1050" font-size="26" fill="#5b6475">кабель-канал: питание и аудио iPad, 3 × Cat5e к регуляторам</text>
-<rect x="857.7" y="1192.25" width="284.6" height="215.5" rx="18" fill="#40444f"/>
-<rect x="875.7" y="1210.25" width="248.6" height="179.5" rx="14" fill="#101216"/>
-<rect x="885.7" y="1220.25" width="228.6" height="159.5" rx="6" fill="#2d6cdf"/>
-<rect x="903.7" y="1240.25" width="192.6" height="22" rx="4" fill="#ffffff" opacity="0.85"/>
-<rect x="903.7" y="1276.25" width="115.55999999999999" height="14" rx="4" fill="#ffffff" opacity="0.6"/>
-<circle cx="1000" cy="1340" r="18" fill="#ffffff" opacity="0.9"/>
-<line x1="875.7" y1="1467.75" x2="1124.3" y2="1467.75" stroke="#c0392b" stroke-width="3"/>
-<line x1="875.7" y1="1449.75" x2="875.7" y2="1485.75" stroke="#c0392b" stroke-width="3"/>
-<line x1="1124.3" y1="1449.75" x2="1124.3" y2="1485.75" stroke="#c0392b" stroke-width="3"/>
-<text x="1000.0" y="1503.75" text-anchor="middle" font-size="30" font-weight="700" fill="#c0392b">249</text>
-<line x1="817.7" y1="1210.25" x2="817.7" y2="1389.75" stroke="#c0392b" stroke-width="3"/>
-<line x1="799.7" y1="1210.25" x2="835.7" y2="1210.25" stroke="#c0392b" stroke-width="3"/>
-<line x1="799.7" y1="1389.75" x2="835.7" y2="1389.75" stroke="#c0392b" stroke-width="3"/>
-<text x="795.7" y="1312.0" text-anchor="end" font-size="30" font-weight="700" fill="#c0392b">180</text>
-<rect x="1222.3" y="1260" width="80" height="80" rx="6" fill="#ffffff" stroke="#9aa3b5" stroke-width="3"/>
-<circle cx="1262.3" cy="1300" r="24" fill="#ffffff" stroke="#7a4fd6" stroke-width="5"/>
-<line x1="1262.3" y1="1300" x2="1272.3" y2="1284" stroke="#7a4fd6" stroke-width="5" stroke-linecap="round"/>
-<text x="1262.3" y="1380" text-anchor="middle" font-size="17" font-weight="700" fill="#7a4fd6">ЗАЛ</text>
-<rect x="1307.3" y="1260" width="80" height="80" rx="6" fill="#ffffff" stroke="#9aa3b5" stroke-width="3"/>
-<circle cx="1347.3" cy="1300" r="24" fill="#ffffff" stroke="#7a4fd6" stroke-width="5"/>
-<line x1="1347.3" y1="1300" x2="1357.3" y2="1284" stroke="#7a4fd6" stroke-width="5" stroke-linecap="round"/>
-<text x="1347.3" y="1380" text-anchor="middle" font-size="17" font-weight="700" fill="#7a4fd6">УЛИЦА</text>
-<rect x="1392.3" y="1260" width="80" height="80" rx="6" fill="#ffffff" stroke="#9aa3b5" stroke-width="3"/>
-<circle cx="1432.3" cy="1300" r="24" fill="#ffffff" stroke="#7a4fd6" stroke-width="5"/>
-<line x1="1432.3" y1="1300" x2="1442.3" y2="1284" stroke="#7a4fd6" stroke-width="5" stroke-linecap="round"/>
-<text x="1432.3" y="1380" text-anchor="middle" font-size="17" font-weight="700" fill="#7a4fd6">ТУАЛЕТ</text>
-<line x1="1222.3" y1="1435" x2="1472.3" y2="1435" stroke="#c0392b" stroke-width="3"/>
-<line x1="1222.3" y1="1417" x2="1222.3" y2="1453" stroke="#c0392b" stroke-width="3"/>
-<line x1="1472.3" y1="1417" x2="1472.3" y2="1453" stroke="#c0392b" stroke-width="3"/>
-<text x="1347.3" y="1481" text-anchor="middle" font-size="30" font-weight="700" fill="#c0392b">250</text>
-<line x1="1142.3" y1="1220" x2="1222.3" y2="1220" stroke="#c0392b" stroke-width="3"/>
-<line x1="1142.3" y1="1202" x2="1142.3" y2="1238" stroke="#c0392b" stroke-width="3"/>
-<line x1="1222.3" y1="1202" x2="1222.3" y2="1238" stroke="#c0392b" stroke-width="3"/>
-<text x="1182.3" y="1206" text-anchor="middle" font-size="26" font-weight="700" fill="#c0392b">≈ 80</text>
-<text x="1542.3" y="1240" font-size="38" font-weight="700" fill="#141a26">iPad 10,9″ на кронштейне</text>
-<text x="1542.3" y="1286" font-size="32" fill="#5b6475">экран 249 × 180 × 7 мм, горизонтально</text>
-<text x="1542.3" y="1330" font-size="32" fill="#5b6475">центр на 1700 мм — выше плеча, не задевается</text>
-<text x="1542.3" y="1374" font-size="32" fill="#5b6475">держатель + вылет 80–200 мм (по паспорту)</text>
-<text x="1542.3" y="1460" font-size="38" font-weight="700" fill="#141a26">3 × Lab.gruppen CRC-VEU</text>
-<text x="1542.3" y="1506" font-size="32" fill="#5b6475">каждый 80 × 80 × 41 мм, шаг 85 мм</text>
-<text x="1542.3" y="1550" font-size="32" fill="#5b6475">справа от iPad, центр тоже на 1700 мм</text>
+<rect x="1150" y="1000" width="100" height="250.0" fill="#ffffff" stroke="#9aa3b5" stroke-width="3"/>
+<rect x="1150" y="1250.0" width="760" height="100" fill="#ffffff" stroke="#9aa3b5" stroke-width="3"/>
+<path d="M1150 1250.0 L1250 1250.0 L1150 1350.0 Z" fill="#eef0f4" stroke="#9aa3b5" stroke-width="2"/>
+<rect x="1910" y="1246.0" width="14" height="108" fill="#e2e5ec" stroke="#9aa3b5" stroke-width="2"/>
+<rect x="1320" y="1260" width="80" height="80" rx="6" fill="#ffffff" stroke="#6b7385" stroke-width="3"/>
+<circle cx="1360" cy="1300" r="24" fill="#ffffff" stroke="#7a4fd6" stroke-width="5"/>
+<line x1="1360" y1="1300" x2="1370" y2="1284" stroke="#7a4fd6" stroke-width="5" stroke-linecap="round"/>
+<text x="1360" y="1380.0" text-anchor="middle" font-size="18" font-weight="700" fill="#7a4fd6">ЗАЛ</text>
+<rect x="1405" y="1260" width="80" height="80" rx="6" fill="#ffffff" stroke="#6b7385" stroke-width="3"/>
+<circle cx="1445" cy="1300" r="24" fill="#ffffff" stroke="#7a4fd6" stroke-width="5"/>
+<line x1="1445" y1="1300" x2="1455" y2="1284" stroke="#7a4fd6" stroke-width="5" stroke-linecap="round"/>
+<text x="1445" y="1380.0" text-anchor="middle" font-size="18" font-weight="700" fill="#7a4fd6">УЛИЦА</text>
+<rect x="1490" y="1260" width="80" height="80" rx="6" fill="#ffffff" stroke="#6b7385" stroke-width="3"/>
+<circle cx="1530" cy="1300" r="24" fill="#ffffff" stroke="#7a4fd6" stroke-width="5"/>
+<line x1="1530" y1="1300" x2="1540" y2="1284" stroke="#7a4fd6" stroke-width="5" stroke-linecap="round"/>
+<text x="1530" y="1380.0" text-anchor="middle" font-size="18" font-weight="700" fill="#7a4fd6">ТУАЛЕТ</text>
+<rect x="1640" y="1270" width="60" height="60" rx="5" fill="#ffffff" stroke="#6b7385" stroke-width="3"/>
+<rect x="1658" y="1282" width="24" height="36" rx="3" fill="#c0392b"/>
+<text x="1670" y="1380.0" text-anchor="middle" font-size="18" font-weight="700" fill="#c0392b">ПИТАНИЕ</text>
+<line x1="1150" y1="1210.0" x2="1910" y2="1210.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="1150" y1="1192.0" x2="1150" y2="1228.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="1910" y1="1192.0" x2="1910" y2="1228.0" stroke="#c0392b" stroke-width="3"/>
+<text x="1530.0" y="1196.0" text-anchor="middle" font-size="28" font-weight="700" fill="#c0392b">760</text>
+<line x1="1970" y1="1250.0" x2="1970" y2="1350.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="1952" y1="1250.0" x2="1988" y2="1250.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="1952" y1="1350.0" x2="1988" y2="1350.0" stroke="#c0392b" stroke-width="3"/>
+<text x="1992" y="1312.0" text-anchor="start" font-size="28" font-weight="700" fill="#c0392b">100</text>
+<line x1="1120" y1="1000" x2="1120" y2="1250.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="1102" y1="1000" x2="1138" y2="1000" stroke="#c0392b" stroke-width="3"/>
+<line x1="1102" y1="1250.0" x2="1138" y2="1250.0" stroke="#c0392b" stroke-width="3"/>
+<text x="1098" y="1137.0" text-anchor="end" font-size="26" font-weight="700" fill="#c0392b">250</text>
+<line x1="1320" y1="1440.0" x2="1570" y2="1440.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="1320" y1="1422.0" x2="1320" y2="1458.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="1570" y1="1422.0" x2="1570" y2="1458.0" stroke="#c0392b" stroke-width="3"/>
+<text x="1445.0" y="1486.0" text-anchor="middle" font-size="28" font-weight="700" fill="#c0392b">250</text>
+<rect x="805.4000000000001" y="1192.25" width="284.6" height="215.5" rx="18" fill="#40444f"/>
+<rect x="823.4000000000001" y="1210.25" width="248.6" height="179.5" rx="14" fill="#101216"/>
+<rect x="833.4000000000001" y="1220.25" width="228.6" height="159.5" rx="6" fill="#2d6cdf"/>
+<rect x="851.4000000000001" y="1240.25" width="192.6" height="22" rx="4" fill="#ffffff" opacity="0.85"/>
+<rect x="851.4000000000001" y="1276.25" width="115.55999999999999" height="14" rx="4" fill="#ffffff" opacity="0.6"/>
+<circle cx="947.7" cy="1340" r="18" fill="#ffffff" opacity="0.9"/>
+<line x1="823.4000000000001" y1="1467.75" x2="1072.0" y2="1467.75" stroke="#c0392b" stroke-width="3"/>
+<line x1="823.4000000000001" y1="1449.75" x2="823.4000000000001" y2="1485.75" stroke="#c0392b" stroke-width="3"/>
+<line x1="1072.0" y1="1449.75" x2="1072.0" y2="1485.75" stroke="#c0392b" stroke-width="3"/>
+<text x="947.7" y="1503.75" text-anchor="middle" font-size="28" font-weight="700" fill="#c0392b">249</text>
+<line x1="765.4000000000001" y1="1210.25" x2="765.4000000000001" y2="1389.75" stroke="#c0392b" stroke-width="3"/>
+<line x1="747.4000000000001" y1="1210.25" x2="783.4000000000001" y2="1210.25" stroke="#c0392b" stroke-width="3"/>
+<line x1="747.4000000000001" y1="1389.75" x2="783.4000000000001" y2="1389.75" stroke="#c0392b" stroke-width="3"/>
+<text x="743.4000000000001" y="1312.0" text-anchor="end" font-size="28" font-weight="700" fill="#c0392b">180</text>
+<text x="805.4000000000001" y="1630" font-size="36" font-weight="700" fill="#141a26">iPad 10,9″ на кронштейне</text>
+<text x="805.4000000000001" y="1674" font-size="30" fill="#5b6475">249 × 180 × 7 мм, центр на 1700 мм; вылет 80–200 мм</text>
+<text x="805.4000000000001" y="1750" font-size="36" font-weight="700" fill="#141a26">Кабель-канал DKC TA-GN 100 × 60 мм (белый)</text>
+<text x="805.4000000000001" y="1794" font-size="30" fill="#5b6475">спуск от шкафа 250 мм → угол плоский NPAN → горизонталь 760 мм → заглушка</text>
+<text x="805.4000000000001" y="1834" font-size="30" fill="#5b6475">внутри: питание и аудио iPad, 3 × Cat5e к регуляторам, питание 230 В (через перегородку)</text>
+<text x="805.4000000000001" y="1910" font-size="36" font-weight="700" fill="#141a26">3 × Lab.gruppen CRC-VEU + выключатель питания</text>
+<text x="805.4000000000001" y="1954" font-size="30" fill="#5b6475">регуляторы 80 × 80 × 41 мм в вырезах крышки канала (глубина канала 60 мм), шаг 85 мм</text>
+<text x="805.4000000000001" y="1994" font-size="30" fill="#5b6475">центр всех элементов на 1700 мм — выше плеча, не задевается</text>
 <g fill="#d9d4cb"><circle cx="330" cy="1350" r="100"/><rect x="180" y="1470" width="300" height="680" rx="120"/><rect x="210" y="2140" width="100" height="860" rx="40"/><rect x="350" y="2140" width="100" height="860" rx="40"/></g>
 <text x="330" y="3060" text-anchor="middle" font-size="32" fill="#5b6475">рост 175 см</text>
 <text x="2460" y="210" font-size="38" font-weight="700" fill="#141a26">Вид сбоку</text>
@@ -87,6 +101,13 @@
 <line x1="2812" y1="1300" x2="2848" y2="1300" stroke="#c0392b" stroke-width="3"/>
 <line x1="2812" y1="3000" x2="2848" y2="3000" stroke="#c0392b" stroke-width="3"/>
 <text x="2852" y="2162.0" text-anchor="start" font-size="30" font-weight="700" fill="#c0392b">1700</text>
+<rect x="2490" y="1000" width="60" height="350" fill="#ffffff" stroke="#9aa3b5" stroke-width="3"/>
+<line x1="2490" y1="1600" x2="2550" y2="1600" stroke="#c0392b" stroke-width="3"/>
+<line x1="2490" y1="1582" x2="2490" y2="1618" stroke="#c0392b" stroke-width="3"/>
+<line x1="2550" y1="1582" x2="2550" y2="1618" stroke="#c0392b" stroke-width="3"/>
+<text x="2520.0" y="1582" text-anchor="middle" font-size="26" font-weight="700" fill="#c0392b">60</text>
+<text x="2570" y="1630" font-size="26" fill="#5b6475">кабель-канал</text>
+<text x="2570" y="1662" font-size="26" fill="#5b6475">DKC 100 × 60</text>
 <rect x="2490" y="1260" width="20" height="80" fill="#8a8f99"/>
 <line x1="2510" y1="1300" x2="2650" y2="1300" stroke="#8a8f99" stroke-width="16"/>
 <rect x="2650" y="1192" width="14" height="216" fill="#101216"/>
@@ -94,6 +115,4 @@
 <line x1="2490" y1="1432" x2="2490" y2="1468" stroke="#c0392b" stroke-width="3"/>
 <line x1="2664" y1="1432" x2="2664" y2="1468" stroke="#c0392b" stroke-width="3"/>
 <text x="2577.0" y="1506" text-anchor="middle" font-size="30" font-weight="700" fill="#c0392b">80–200</text>
-<text x="2510" y="1560" font-size="28" fill="#5b6475">CRC-V рядом,</text>
-<text x="2510" y="1596" font-size="28" fill="#5b6475">в стене (41 мм)</text>
 </svg>
