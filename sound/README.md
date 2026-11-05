@@ -4,8 +4,9 @@
 одна музыка, источник — **iPad на кронштейне** у шкафа, у каждой зоны свой регулятор громкости.
 
 **Для руководства:** [`Teplica-zvuk-proekt.pdf`](Teplica-zvuk-proekt.pdf) — проект на согласование по трём вариантам (рекомендуем A); 15 страниц, с фото колонок.
-**Смета:** [Google Sheets](https://docs.google.com/spreadsheets/d/1uV0goTIWzc8BjLMTEEd3xBQX1XKyCQEsck7-6BgJBb0/edit) — основной документ;
-копии: [ESTIMATE.md](ESTIMATE.md), [smeta-teplica.xlsx](smeta-teplica.xlsx).
+**Согласован и в закупке вариант A** (остальные на паузе). Смета A с позициями из счёта ВсеИнструменты: [ESTIMATE.md](ESTIMATE.md), счёт — [`invoices/`](invoices/); счёт Pult.ru ждём.
+**Исходная смета по всем вариантам:** [Google Sheets](https://docs.google.com/spreadsheets/d/1uV0goTIWzc8BjLMTEEd3xBQX1XKyCQEsck7-6BgJBb0/edit) — основной документ;
+копия A: [smeta-teplica.xlsx](smeta-teplica.xlsx).
 **Расстановка:** [`placement-plan.png`](placement-plan.png). **Место управления (iPad, регуляторы, шкаф):** [`wall-ipad-controls.png`](wall-ipad-controls.png).
 **Габариты сабвуфера и KEF:** [`sizes-sub-kef.png`](sizes-sub-kef.png). **Фото колонок** (KEF Q350/Q150 во всех цветах, CVGaudio OSR608): [`photos/`](photos/).
 
@@ -18,8 +19,8 @@
 | Электроника | CM82 + Volta LIVE 4.400 + CA602 (есть) | как A | CVGaudio M-123Tm | CM82 + CA2401 + CA602 (есть) |
 | Регуляторы | 3 × Lab.gruppen CRC-V | 3 × CRC-V | 3 × CVGaudio VA | 3 × CRC-V |
 | Сабвуфер | опция: Radiotehnika (+49 990) | опция: Radiotehnika (+49 990) | нет | опция: KM750 + Radiotehnika (+71 465) |
-| **Без сабвуфера** | **246 500 ₽** | **226 500 ₽** | **178 414 ₽** | **240 104 ₽** |
-| **С сабвуфером** | **296 490 ₽** | **276 490 ₽** | — | **311 569 ₽** |
+| **Без сабвуфера** | **246 447 ₽** | **226 447 ₽** | **178 414 ₽** | **240 104 ₽** |
+| **С сабвуфером** | **296 437 ₽** | **276 437 ₽** | — | **311 569 ₽** |
 
 > Сметы A и A2 в этом репозитории и в PDF уже с сабвуфером в опции и с вариантом A2; в Google-таблице этих изменений пока нет.
 

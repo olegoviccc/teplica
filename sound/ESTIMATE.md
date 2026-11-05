@@ -1,155 +1,56 @@
-# Теплица: смета оборудования по вариантам A / B / C
+# Теплица: смета варианта A (согласован, идёт закупка)
 
-> Копия [Google-таблицы](https://docs.google.com/spreadsheets/d/1uV0goTIWzc8BjLMTEEd3xBQX1XKyCQEsck7-6BgJBb0/edit) на 22.10.2026. Основной документ — таблица; этот файл и `smeta-teplica.xlsx` только для справки.
-> Только оборудование и материалы, без работ и доставки. Позиции «есть в наличии» в сумму не входят.
+> Только оборудование и материалы, без работ и доставки. Позиции «есть в наличии» в сумму не входят. Варианты A2, B, C на паузе и в смету не входят.
+> **Счета:** ВсеИнструменты № 2611-483341-30973 от 05.11.2026 — [`invoices/vseinstrumenti-2611-483341-30973.pdf`](invoices/vseinstrumenti-2611-483341-30973.pdf), 28 223 ₽ (строки с пометкой «счёт ВИ»). Pult.ru — ждём обновлённый счёт, пока цены по карточкам.
 
-## Итог
-
-| Вариант | Итого, ₽ |
+| | Сумма, ₽ |
 |---|---|
-| Вариант A: KEF Q350 на Volta LIVE 4.400 + CA602, сабвуфер опционально | **246 500** |
-| Вариант A2: то же с KEF Q150, сабвуфер опционально | **226 500** |
-| Вариант B: CVGaudio 100 В, самый простой (один M-123Tm) | **178 414** |
-| Вариант C: Lab.gruppen 100 В (CA2401 + CA602), сабвуфер опционально | **240 104** |
-| Вариант A + опция «сабвуфер» | **296 490** |
-| Вариант A2 + опция «сабвуфер» | **276 490** |
-| Вариант C + опция «сабвуфер» | **311 569** |
+| Вариант A | **246 447** |
+| в т.ч. по счёту ВсеИнструменты | 28 223 |
+| в т.ч. «Докупить» (ещё не в счетах) | 5 802 |
+| Опция «сабвуфер» | 49 990 |
+| **Вариант A с сабвуфером** | **296 437** |
 
-## Вариант A: KEF Q350 на Volta LIVE 4.400 + CA602, сабвуфер опционально
+## Вариант A: KEF Q350 на Volta LIVE 4.400 + CA602
 
-| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
-|---|---|---|---|---|---|---|
-| 1 | Lab.gruppen CM82, микшер 8×2 | 1 шт | 45 071 | 45 071 | [Pult.ru](https://www.pult.ru/product/miksher-lab-gruppen-cm82) |  |
-| 2 | Volta LIVE 4.400, зал: 2 пары KEF (кан. 3 — под сабвуфер) | 1 шт | 31 626 | 31 626 | [Pult.ru](https://www.pult.ru/product/usilitel-moshchnosti-volta-live-4-400) | в наличии; встречалась цена 25 984 |
-| 3 | Lab.gruppen CA602, улица + туалет (2 × 60 Вт, 100 В) | есть | 35 330 | — | [Pult.ru](https://www.pult.ru/product/usilitel-lab-gruppen-lab-gruppen-ca602) | есть в наличии |
-| 4 | Lab.gruppen CRC-VEU, регулятор зоны | 3 шт | 6 510 | 19 530 | [Pult.ru](https://www.pult.ru/product/nastennyy-regulyator-lab-gruppen-lab-gruppen-crc-veu-bk) | зал, улица, туалет |
-| 5 | Рамка на 3 поста + подрозетники | 1 компл | 1 500 | 1 500 | — | оценка |
-| 6 | iPad | 1 шт | 25 000 | 25 000 | Авито | диапазон 17–25 тыс. |
-| 7 | KEF Q350, полочная акустика (пара) | 2 пара | 39 000 | 78 000 | [Audiomania](https://www.audiomania.ru/polochnaya_akustika/kef/kef_q350.html) | акция на Аудиомании |
-| 8 | CVGaudio OSR608TBL, улица, 100 В / 20 Вт, IP65 | 1 шт | 9 417 | 9 417 | [Pult.ru](https://www.pult.ru/product/ulichnaya-akusticheskaya-sistema-cvgaudio-osr608tbl) |  |
-| 9 | CVGaudio CRH608T, туалет, 100 В / 8 Вт | есть | 6 150 | — | [CVG](https://www.cvg.ru/catalog/potolochnye_vstraivaemye_akusticheskie_sistemy_100v/crh608t/) | есть в наличии |
-| 10 | Шкаф ExeGate EC-WM-12U.450.G.BLACK, 12U, 600×450×635, стекло | 1 шт | 10 180 | 10 180 | ВсеИнструменты | в корзине, код 39132814 |
-| 11 | Блок розеток ExeGate ServerPro PDU-19H901, 1U, 9 Schuko, вход C14 | 2 шт | 1 151 | 2 302 | ВсеИнструменты | в корзине, код 17619780; хватит одного |
-| 12 | Кронштейн настенный металлический для планшетов 4–13″ | 1 шт | 2 278 | 2 278 | [Ozon](https://www.ozon.ru/product/nastennyy-metallicheskiy-dlya-planshetov-4-13-dyuymov-3445381273/) | под iPad |
-| 13 | Акустический кабель PROCONNECT 2×2,5 мм², 100 м (01-6208-6) | 2 бухта | 4 945 | 9 890 | ВсеИнструменты | в корзине, код 15557858 |
-| 14 | Кабель FTP ExeGate кат. 5e, 100 м, CCA (281812) | 1 бухта | 1 239 | 1 239 | ВсеИнструменты | в корзине, код 16492172; CCA — омеднённый алюминий |
-| 15 | Коннектор RJ-45 TWT 8P8C кат. 5e, 100 шт (PL45-8P8C) | 1 уп | 494 | 494 | ВсеИнструменты | в корзине, код 16104158 |
-| 16 | Обжимной инструмент IronMaster HT-568 | 1 шт | 683 | 683 | ВсеИнструменты | в корзине, код 36827160 |
-| 17 | Кабель-канал DKC TA-GN 100×60, 2 м (01786DIY) | 1 шт | 1 320 | 1 320 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/korob-s-napravlyayuschimi-100x60-belyj-ta-gn-2m-dkc-01786-703542/) | в корзине, код 15149297 |
-| 18 | Угол плоский DKC NPAN 100×60 (01745DIY) | 1 шт | 609 | 609 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/ugol-ploskij-dkc-npan-100x60-01745diy-16157927/) | в корзине, код 35773848 |
-| 19 | Speakon PROCAST M-SP4NC, кабельный штекер, под выходы Volta | 3 шт | 503 | 1 509 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/kabelnyj-4-kontaktnyj-razem-tipa-spikon-procast-cable-m-sp4nc-speakon-male-nf-00000437-4208106/) | 2 пары KEF + сабвуфер; разъёмы Volta сверить |
-| 20 | XLR штекер (папа) Pro Legend PL2172, на кабель | 3 шт | 140 | 420 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/razem-xlr-3p-shteker-pro-legend-metall-tsanga-na-kabel-chernyj-pl2172-6503935/) | CM82 выход A → входы Volta 1–3; входы Volta сверить |
-| 21 | Микрофонный кабель 2×0,22 экран, ~5 м | 5 м | 100 | 500 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabel-i-provod-mikrofonnyj-13336/) | перемычки в шкафу; на ВИ только бухты 50 м — проще взять отрезок в музыкальном магазине, оценка |
-| 22 | Адаптер USB-C → 3,5 мм с зарядкой PD (Ugreen CM231 или аналог) | 1 шт | 1 690 | 1 690 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/adapter-type-c-jack-3-5-1091183/) | iPad заряжается и играет через один порт |
-| 23 | Кабель 3,5 мм → 2×RCA, 3 м (Vention P550AC300-S или REXANT 17-4204) | 1 шт | 554 | 554 | [ВсеИнструменты](https://www.vseinstrumenti.ru/category/kabeli-rca-169039/) | iPad → CM82 |
-| 24 | Кабель USB-C – USB-C 3 м, 60 Вт (PERO DC11 PD) | 1 шт | 440 | 440 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabeli-usb-type-c-160471/) | зарядка iPad от блока розеток; нужен блок питания USB-C 20 Вт |
-| 25 | Заглушка DKC LAN 100×60 (00874) | 1 уп | 180 | 180 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/zaglushka-100x60-2sht-lan-dkc-00874-703554/) | торец канала |
-| 26 | Дюбель Fischer SXRL 10×100 с шурупом, 4 шт | 1 уп | 460 | 460 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/fasadnyj-dyubel-s-shurupom-fischer-sxrl-10h100-fus-4-sht-paket-141371-1782391/) | шкаф; цена ориентировочно |
-| 27 | Дюбель универсальный Fischer DUOPOWER 8×40, 100 шт | 1 уп | 569 | 569 | [ВсеИнструменты](https://www.vseinstrumenti.ru/krepezh/dyubeli/raspornye/fischer/duopower-8x40-100sht-555008/) | полки KEF, кронштейн iPad, улица; без шурупов — шурупы 5–6 мм отдельно |
-| 28 | Дюбель-гвоздь KRANZ 6×40, 100 шт | 1 уп | 272 | 272 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/dyubel-gvozd-kranz-gribovidnyj-bortik-6x40-polipropilen-100-sht-kr-02-3621-001-3049028/) | кабель-канал |
-| 29 | Гофра ПНД 20 мм с зондом, УФ-стойкая, 25 м (Gigant 20120-25GI) | 1 бухта | 689 | 689 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/chernye-gofrirovannye-truby-dlya-kabelya-20-mm-1433663/) | уличная линия |
-| 30 | Стяжки нейлоновые 150 мм, 100 шт | 1 уп | 78 | 78 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/nejlonovye-styazhki-150-mm-13500/) |  |
-| | **Итого** | | | **246 500** | | |
+| № | Раздел | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
+|---|---|---|---|---|---|---|---|
+| 1 | Электроника | Lab.gruppen CM82, микшер 8×2 | 1 шт | 45 071 | 45 071 | [Pult.ru](https://www.pult.ru/product/miksher-lab-gruppen-cm82) |  |
+| 2 | Электроника | Volta LIVE 4.400, зал: 2 пары KEF (кан. 3 — под сабвуфер) | 1 шт | 31 626 | 31 626 | [Pult.ru](https://www.pult.ru/product/usilitel-moshchnosti-volta-live-4-400) | в наличии; встречалась цена 25 984 |
+| 3 | Электроника | Lab.gruppen CA602, улица + туалет (2 × 60 Вт, 100 В) | есть | 35 330 | — | [Pult.ru](https://www.pult.ru/product/usilitel-lab-gruppen-lab-gruppen-ca602) | есть в наличии |
+| 4 | Электроника | Lab.gruppen CRC-VEU, регулятор зоны | 3 шт | 6 510 | 19 530 | [Pult.ru](https://www.pult.ru/product/nastennyy-regulyator-lab-gruppen-lab-gruppen-crc-veu-bk) | зал, улица, туалет |
+| 5 | Электроника | Рамка на 3 поста + подрозетники | 1 компл | 1 500 | 1 500 | — | оценка |
+| 6 | Электроника | iPad | 1 шт | 25 000 | 25 000 | Авито | диапазон 17–25 тыс. |
+| 7 | Акустика | KEF Q350, полочная акустика (пара) | 2 пара | 39 000 | 78 000 | [Audiomania](https://www.audiomania.ru/polochnaya_akustika/kef/kef_q350.html) | акция на Аудиомании |
+| 8 | Акустика | CVGaudio OSR608TBL, улица, 100 В / 20 Вт, IP65 | 1 шт | 9 417 | 9 417 | [Pult.ru](https://www.pult.ru/product/ulichnaya-akusticheskaya-sistema-cvgaudio-osr608tbl) |  |
+| 9 | Акустика | CVGaudio CRH608T, туалет, 100 В / 8 Вт | есть | 6 150 | — | [CVG](https://www.cvg.ru/catalog/potolochnye_vstraivaemye_akusticheskie_sistemy_100v/crh608t/) | есть в наличии |
+| 10 | Шкаф | Шкаф ExeGate EC-WM-12U.450.G.BLACK, 12U, 600×450×635, стекло (298609) | 1 шт | 11 084 | 11 084 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 39132814; под заказ 3–4 раб. дня |
+| 11 | Шкаф | Блок розеток ExeGate ServerPro PDU-19H901, 1U, 9 Schuko, C14 (280847) | 2 шт | 1 216 | 2 432 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 17619780; хватит одного |
+| 12 | Коммутация | Акустический кабель PROCONNECT 2×2,5 мм², 100 м (01-6208-6) | 2 бухта | 4 515 | 9 030 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 15557858 |
+| 13 | Коммутация | Кабель FTP ExeGate кат. 5e, CCA, 100 м (281812) | 1 бухта | 1 245 | 1 245 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 16492172 |
+| 14 | Коммутация | Коннектор RJ-45 TWT 8P8C кат. 5e, 100 шт (PL45-8P8C) | 1 уп | 522 | 522 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 16104158 |
+| 15 | Коммутация | Обжимной инструмент IronMaster HT-568 | 1 шт | 721 | 721 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 36827160; под заказ 7–9 раб. дней |
+| 16 | Шкаф и материалы | Кабель-канал DKC TA-GN 100×60, 2 м (01786DIY) | 1 шт | 1 220 | 1 220 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/korob-s-napravlyayuschimi-100x60-belyj-ta-gn-2m-dkc-01786-703542/) | счёт ВИ № 2611-483341-30973, код 15149297 |
+| 17 | Шкаф и материалы | Угол плоский DKC NPAN 100×60 (01745DIY) | 1 шт | 665 | 665 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/ugol-ploskij-dkc-npan-100x60-01745diy-16157927/) | счёт ВИ № 2611-483341-30973, код 35773848 |
+| 18 | Шкаф и материалы | Заглушка DKC LAN 100×60 (00874DIY) | 1 шт | 195 | 195 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/zaglushka-100x60-2sht-lan-dkc-00874-703554/) | счёт ВИ № 2611-483341-30973, код 15149322 |
+| 19 | Шкаф и материалы | Фасадный дюбель Tech-Krep TSX-S 10×100, 6 шт (127600) | 2 пакет | 312 | 624 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 15620148; шкаф |
+| 20 | Шкаф и материалы | Дюбель распорный ЕВРОПАРТНЕР PND 8×40 с шурупом 5×50, 40 шт | 1 уп | 201 | 201 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 37736538 |
+| 21 | Шкаф и материалы | Дюбель-гвоздь KRANZ 6×40, 100 шт (KR-02-3621-001) | 1 уп | 200 | 200 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/dyubel-gvozd-kranz-gribovidnyj-bortik-6x40-polipropilen-100-sht-kr-02-3621-001-3049028/) | счёт ВИ № 2611-483341-30973, код 21455524 |
+| 22 | Шкаф и материалы | Стяжки нейлоновые FORTISFLEX КСС 4×150, 100 шт | 1 уп | 84 | 84 | ВсеИнструменты | счёт ВИ № 2611-483341-30973, код 15538118 |
+| 23 | Шкаф и материалы | Кронштейн настенный металлический для планшетов 4–13″ | 1 шт | 2 278 | 2 278 | [Ozon](https://www.ozon.ru/product/nastennyy-metallicheskiy-dlya-planshetov-4-13-dyuymov-3445381273/) | под iPad |
+| 24 | Докупить | Speakon PROCAST M-SP4NC, кабельный штекер, под выходы Volta | 3 шт | 503 | 1 509 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/kabelnyj-4-kontaktnyj-razem-tipa-spikon-procast-cable-m-sp4nc-speakon-male-nf-00000437-4208106/) | 2 пары KEF + сабвуфер; разъёмы Volta сверить |
+| 25 | Докупить | XLR штекер (папа) Pro Legend PL2172, на кабель | 3 шт | 140 | 420 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/razem-xlr-3p-shteker-pro-legend-metall-tsanga-na-kabel-chernyj-pl2172-6503935/) | CM82 выход A → входы Volta 1–3; входы Volta сверить |
+| 26 | Докупить | Микрофонный кабель 2×0,22 экран, ~5 м | 5 м | 100 | 500 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabel-i-provod-mikrofonnyj-13336/) | перемычки в шкафу; на ВИ только бухты 50 м — проще взять отрезок в музыкальном магазине, оценка |
+| 27 | Докупить | Адаптер USB-C → 3,5 мм с зарядкой PD (Ugreen CM231 или аналог) | 1 шт | 1 690 | 1 690 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/adapter-type-c-jack-3-5-1091183/) | iPad заряжается и играет через один порт |
+| 28 | Докупить | Кабель 3,5 мм → 2×RCA, 3 м (Vention P550AC300-S или REXANT 17-4204) | 1 шт | 554 | 554 | [ВсеИнструменты](https://www.vseinstrumenti.ru/category/kabeli-rca-169039/) | iPad → CM82 |
+| 29 | Докупить | Кабель USB-C – USB-C 3 м, 60 Вт (PERO DC11 PD) | 1 шт | 440 | 440 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabeli-usb-type-c-160471/) | зарядка iPad от блока розеток; нужен блок питания USB-C 20 Вт |
+| 30 | Докупить | Гофра ПНД 20 мм с зондом, УФ-стойкая, 25 м (Gigant 20120-25GI) | 1 бухта | 689 | 689 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/chernye-gofrirovannye-truby-dlya-kabelya-20-mm-1433663/) | уличная линия |
+| | | **Итого** | | | **246 447** | | |
 
-**Опция «сабвуфер»**
+## Опция «сабвуфер»
 
-| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
-|---|---|---|---|---|---|---|
-| 1 | Radiotehnika Alfa 1.04 MKII, активный сабвуфер 10″ | 1 шт | 49 990 | 49 990 | [Audiomania](https://www.audiomania.ru/subwoofer/radiotehnika/radiotehnika_alfa_1-04_mk_ii.html) | к каналу 3 Volta, розетка 230 В |
-| | **Итого опция** | | | **49 990** | | |
-
-## Вариант A2: то же с KEF Q150, сабвуфер опционально
-
-| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
-|---|---|---|---|---|---|---|
-| 1 | Lab.gruppen CM82, микшер 8×2 | 1 шт | 45 071 | 45 071 | [Pult.ru](https://www.pult.ru/product/miksher-lab-gruppen-cm82) |  |
-| 2 | Volta LIVE 4.400, зал: 2 пары KEF (кан. 3 — под сабвуфер) | 1 шт | 31 626 | 31 626 | [Pult.ru](https://www.pult.ru/product/usilitel-moshchnosti-volta-live-4-400) | в наличии; встречалась цена 25 984 |
-| 3 | Lab.gruppen CA602, улица + туалет (2 × 60 Вт, 100 В) | есть | 35 330 | — | [Pult.ru](https://www.pult.ru/product/usilitel-lab-gruppen-lab-gruppen-ca602) | есть в наличии |
-| 4 | Lab.gruppen CRC-VEU, регулятор зоны | 3 шт | 6 510 | 19 530 | [Pult.ru](https://www.pult.ru/product/nastennyy-regulyator-lab-gruppen-lab-gruppen-crc-veu-bk) | зал, улица, туалет |
-| 5 | Рамка на 3 поста + подрозетники | 1 компл | 1 500 | 1 500 | — | оценка |
-| 6 | iPad | 1 шт | 25 000 | 25 000 | Авито | диапазон 17–25 тыс. |
-| 7 | KEF Q150, полочная акустика (пара) | 2 пара | 29 000 | 58 000 | [Audiomania](https://www.audiomania.ru/polochnaya_akustika/kef/kef_q150.html) | акция на Аудиомании (было 52 000) |
-| 8 | CVGaudio OSR608TBL, улица, 100 В / 20 Вт, IP65 | 1 шт | 9 417 | 9 417 | [Pult.ru](https://www.pult.ru/product/ulichnaya-akusticheskaya-sistema-cvgaudio-osr608tbl) |  |
-| 9 | CVGaudio CRH608T, туалет, 100 В / 8 Вт | есть | 6 150 | — | [CVG](https://www.cvg.ru/catalog/potolochnye_vstraivaemye_akusticheskie_sistemy_100v/crh608t/) | есть в наличии |
-| 10 | Шкаф ExeGate EC-WM-12U.450.G.BLACK, 12U, 600×450×635, стекло | 1 шт | 10 180 | 10 180 | ВсеИнструменты | в корзине, код 39132814 |
-| 11 | Блок розеток ExeGate ServerPro PDU-19H901, 1U, 9 Schuko, вход C14 | 2 шт | 1 151 | 2 302 | ВсеИнструменты | в корзине, код 17619780; хватит одного |
-| 12 | Кронштейн настенный металлический для планшетов 4–13″ | 1 шт | 2 278 | 2 278 | [Ozon](https://www.ozon.ru/product/nastennyy-metallicheskiy-dlya-planshetov-4-13-dyuymov-3445381273/) | под iPad |
-| 13 | Акустический кабель PROCONNECT 2×2,5 мм², 100 м (01-6208-6) | 2 бухта | 4 945 | 9 890 | ВсеИнструменты | в корзине, код 15557858 |
-| 14 | Кабель FTP ExeGate кат. 5e, 100 м, CCA (281812) | 1 бухта | 1 239 | 1 239 | ВсеИнструменты | в корзине, код 16492172; CCA — омеднённый алюминий |
-| 15 | Коннектор RJ-45 TWT 8P8C кат. 5e, 100 шт (PL45-8P8C) | 1 уп | 494 | 494 | ВсеИнструменты | в корзине, код 16104158 |
-| 16 | Обжимной инструмент IronMaster HT-568 | 1 шт | 683 | 683 | ВсеИнструменты | в корзине, код 36827160 |
-| 17 | Кабель-канал DKC TA-GN 100×60, 2 м (01786DIY) | 1 шт | 1 320 | 1 320 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/korob-s-napravlyayuschimi-100x60-belyj-ta-gn-2m-dkc-01786-703542/) | в корзине, код 15149297 |
-| 18 | Угол плоский DKC NPAN 100×60 (01745DIY) | 1 шт | 609 | 609 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/ugol-ploskij-dkc-npan-100x60-01745diy-16157927/) | в корзине, код 35773848 |
-| 19 | Speakon PROCAST M-SP4NC, кабельный штекер, под выходы Volta | 3 шт | 503 | 1 509 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/kabelnyj-4-kontaktnyj-razem-tipa-spikon-procast-cable-m-sp4nc-speakon-male-nf-00000437-4208106/) | 2 пары KEF + сабвуфер; разъёмы Volta сверить |
-| 20 | XLR штекер (папа) Pro Legend PL2172, на кабель | 3 шт | 140 | 420 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/razem-xlr-3p-shteker-pro-legend-metall-tsanga-na-kabel-chernyj-pl2172-6503935/) | CM82 выход A → входы Volta 1–3; входы Volta сверить |
-| 21 | Микрофонный кабель 2×0,22 экран, ~5 м | 5 м | 100 | 500 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabel-i-provod-mikrofonnyj-13336/) | перемычки в шкафу; на ВИ только бухты 50 м — проще взять отрезок в музыкальном магазине, оценка |
-| 22 | Адаптер USB-C → 3,5 мм с зарядкой PD (Ugreen CM231 или аналог) | 1 шт | 1 690 | 1 690 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/adapter-type-c-jack-3-5-1091183/) | iPad заряжается и играет через один порт |
-| 23 | Кабель 3,5 мм → 2×RCA, 3 м (Vention P550AC300-S или REXANT 17-4204) | 1 шт | 554 | 554 | [ВсеИнструменты](https://www.vseinstrumenti.ru/category/kabeli-rca-169039/) | iPad → CM82 |
-| 24 | Кабель USB-C – USB-C 3 м, 60 Вт (PERO DC11 PD) | 1 шт | 440 | 440 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabeli-usb-type-c-160471/) | зарядка iPad от блока розеток; нужен блок питания USB-C 20 Вт |
-| 25 | Заглушка DKC LAN 100×60 (00874) | 1 уп | 180 | 180 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/zaglushka-100x60-2sht-lan-dkc-00874-703554/) | торец канала |
-| 26 | Дюбель Fischer SXRL 10×100 с шурупом, 4 шт | 1 уп | 460 | 460 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/fasadnyj-dyubel-s-shurupom-fischer-sxrl-10h100-fus-4-sht-paket-141371-1782391/) | шкаф; цена ориентировочно |
-| 27 | Дюбель универсальный Fischer DUOPOWER 8×40, 100 шт | 1 уп | 569 | 569 | [ВсеИнструменты](https://www.vseinstrumenti.ru/krepezh/dyubeli/raspornye/fischer/duopower-8x40-100sht-555008/) | полки KEF, кронштейн iPad, улица; без шурупов — шурупы 5–6 мм отдельно |
-| 28 | Дюбель-гвоздь KRANZ 6×40, 100 шт | 1 уп | 272 | 272 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/dyubel-gvozd-kranz-gribovidnyj-bortik-6x40-polipropilen-100-sht-kr-02-3621-001-3049028/) | кабель-канал |
-| 29 | Гофра ПНД 20 мм с зондом, УФ-стойкая, 25 м (Gigant 20120-25GI) | 1 бухта | 689 | 689 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/chernye-gofrirovannye-truby-dlya-kabelya-20-mm-1433663/) | уличная линия |
-| 30 | Стяжки нейлоновые 150 мм, 100 шт | 1 уп | 78 | 78 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/nejlonovye-styazhki-150-mm-13500/) |  |
-| | **Итого** | | | **226 500** | | |
-
-**Опция «сабвуфер»**
-
-| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
-|---|---|---|---|---|---|---|
-| 1 | Radiotehnika Alfa 1.04 MKII, активный сабвуфер 10″ | 1 шт | 49 990 | 49 990 | [Audiomania](https://www.audiomania.ru/subwoofer/radiotehnika/radiotehnika_alfa_1-04_mk_ii.html) | к каналу 3 Volta, розетка 230 В |
-| | **Итого опция** | | | **49 990** | | |
-
-## Вариант B: CVGaudio 100 В, самый простой (один M-123Tm)
-
-| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
-|---|---|---|---|---|---|---|
-| 1 | CVGaudio M-123Tm, микшер-усилитель 120 Вт / 100 В, MP3/FM/BT | 1 шт | 43 206 | 43 206 | [CVG](https://www.cvg.ru/catalog/100v-usiliteli-so-vstroennym-modulem-mp3-fm/m123tm/) | все три зоны |
-| 2 | CVGaudio VA-1100, регулятор «Зал» (100 Вт) | 1 шт | 4 246 | 4 246 | [Pult.ru](https://www.pult.ru/product/regulyator-gromkosti-cvgaudio-va-1100) |  |
-| 3 | CVGaudio VA-1100, регулятор «Улица» (100 Вт) | 1 шт | 4 246 | 4 246 | [Pult.ru](https://www.pult.ru/product/regulyator-gromkosti-cvgaudio-va-1100) |  |
-| 4 | CVGaudio VA-110, регулятор «Туалет» (10 Вт) | 1 шт | 2 393 | 2 393 | [Pult.ru](https://www.pult.ru/product/regulyator-gromkosti-cvgaudio-va-110) |  |
-| 5 | Рамка / подрозетники под регуляторы | 1 компл | 1 500 | 1 500 | — | оценка |
-| 6 | iPad | 1 шт | 25 000 | 25 000 | Авито | диапазон 17–25 тыс. |
-| 7 | Кабель/адаптер iPad → RCA | 1 компл | 2 000 | 2 000 | — | оценка; или встроенный плеер |
-| 8 | Кронштейн настенный металлический для планшетов 4–13″ | 1 шт | 2 278 | 2 278 | [Ozon](https://www.ozon.ru/product/nastennyy-metallicheskiy-dlya-planshetov-4-13-dyuymov-3445381273/) | под iPad |
-| 9 | Шкаф настенный 19″ 9U Wize Pro W9U45R | 1 шт | 17 869 | 17 869 | [Pult.ru](https://www.pult.ru/product/nastennyy-shkaf-wize-pro-w12u45r#about) |  |
-| 10 | CVGaudio OSR608TBL, зал 4 шт + улица 1 шт, 100 В | 5 шт | 9 417 | 47 085 | [Pult.ru](https://www.pult.ru/product/ulichnaya-akusticheskaya-sistema-cvgaudio-osr608tbl) |  |
-| 11 | CVGaudio CRH608T, туалет, 100 В / 8 Вт | есть | 6 150 | — | [CVG](https://www.cvg.ru/catalog/potolochnye_vstraivaemye_akusticheskie_sistemy_100v/crh608t/) | есть в наличии |
-| 12 | Кабель 2×1,5 (100 В), уличный кабель | 1 компл | 20 000 | 20 000 | — | примерно, нужен расчёт длины трасс |
-| 13 | Расходные материалы (крепёж, коробки IP65) | 1 компл | 7 000 | 7 000 | — |  |
-| 14 | Кабель-канал DKC TA-GN 100×60 (01786), 2 м, под iPad и регуляторы, с перегородкой | 1 шт | 1 150 | 1 150 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/korob-s-napravlyayuschimi-100x60-belyj-ta-gn-2m-dkc-01786-703542/) | перегородку и силовой выключатель уточнить, цена по выдаче поиска |
-| 15 | Заглушки DKC LAN 100×60 (00874), 2 шт | 1 компл | 191 | 191 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/zaglushka-100x60-2sht-lan-dkc-00874-703554/) |  |
-| 16 | Угол плоский DKC NPAN 100×60 (01745), поворот канала от шкафа к iPad | 1 шт | 250 | 250 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/ugol-ploskij-dkc-npan-100x60-01745diy-16157927/) | цена ориентировочно, уточнить |
-| | **Итого** | | | **178 414** | | |
-
-## Вариант C: Lab.gruppen 100 В (CA2401 + CA602), сабвуфер опционально
-
-| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
-|---|---|---|---|---|---|---|
-| 1 | Lab.gruppen CM82, микшер 8×2 | 1 шт | 45 071 | 45 071 | [Pult.ru](https://www.pult.ru/product/miksher-lab-gruppen-cm82) |  |
-| 2 | Lab.gruppen CA2401, зал (100 В) | 1 шт | 50 100 | 50 100 | [Pult.ru](https://www.pult.ru/product/usilitel-installyacionnyy-lab-gruppen-ca2401) |  |
-| 3 | Lab.gruppen CA602, улица + туалет (100 В) | есть | 44 996 | — | [Pult.ru](https://www.pult.ru/product/usiliteli-moshchnosti/usiliteli-dvuhkanalnye/) | есть в наличии |
-| 4 | Lab.gruppen CRC-VEU, регулятор зоны | 3 шт | 6 510 | 19 530 | [Pult.ru](https://www.pult.ru/product/nastennyy-regulyator-lab-gruppen-lab-gruppen-crc-veu-bk) | зал, улица, туалет |
-| 5 | Рамка на 3 поста + подрозетники | 1 компл | 1 500 | 1 500 | — | оценка |
-| 6 | iPad | 1 шт | 25 000 | 25 000 | Авито | диапазон 17–25 тыс. |
-| 7 | CVGaudio OSR608TBL, зал 4 шт (30 Вт) + улица 1 шт (20 Вт) | 5 шт | 9 417 | 47 085 | [Pult.ru](https://www.pult.ru/product/ulichnaya-akusticheskaya-sistema-cvgaudio-osr608tbl) |  |
-| 8 | CVGaudio CRH608T, туалет, 100 В / 8 Вт | есть | 6 150 | — | [CVG](https://www.cvg.ru/catalog/potolochnye_vstraivaemye_akusticheskie_sistemy_100v/crh608t/) | есть в наличии |
-| 9 | Шкаф настенный 19″ 9U Wize Pro W9U45R | 1 шт | 17 869 | 17 869 | [Pult.ru](https://www.pult.ru/product/nastennyy-shkaf-wize-pro-w12u45r#about) |  |
-| 10 | Блок розеток 19″ 1U с выключателем MDX PDU-8E-10A-Sw | 1 шт | 2 080 | 2 080 | [Pult.ru](https://www.pult.ru/product/blok-rozetok-19---mdx-pdu-8e-10a-sw) |  |
-| 11 | Кронштейн настенный металлический для планшетов 4–13″ | 1 шт | 2 278 | 2 278 | [Ozon](https://www.ozon.ru/product/nastennyy-metallicheskiy-dlya-planshetov-4-13-dyuymov-3445381273/) | под iPad |
-| 12 | Кабель: 2×1,5 (100 В), уличный, Cat5e ×3, 2×2,5 под саб | 1 компл | 20 000 | 20 000 | — | примерно, нужен расчёт длины трасс |
-| 13 | Расходные материалы | 1 компл | 8 000 | 8 000 | — | оценка |
-| 14 | Кабель-канал DKC TA-GN 100×60 (01786), 2 м, под iPad и регуляторы, с перегородкой | 1 шт | 1 150 | 1 150 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/korob-s-napravlyayuschimi-100x60-belyj-ta-gn-2m-dkc-01786-703542/) | перегородку и силовой выключатель уточнить, цена по выдаче поиска |
-| 15 | Заглушки DKC LAN 100×60 (00874), 2 шт | 1 компл | 191 | 191 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/zaglushka-100x60-2sht-lan-dkc-00874-703554/) |  |
-| 16 | Угол плоский DKC NPAN 100×60 (01745), поворот канала от шкафа к iPad | 1 шт | 250 | 250 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/ugol-ploskij-dkc-npan-100x60-01745diy-16157927/) | цена ориентировочно, уточнить |
-| | **Итого** | | | **240 104** | | |
-
-**Опция «сабвуфер»**
-
-| № | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
-|---|---|---|---|---|---|---|
-| 1 | Усилитель мощности Behringer KM750 | 1 шт | 21 475 | 21 475 | [Pult.ru](https://www.pult.ru/product/usilitel-behringer-km750) | канал под сабвуфер |
-| 2 | Radiotehnika Alfa 1.04 MKII, активный сабвуфер 10″ | 1 шт | 49 990 | 49 990 | [Audiomania](https://www.audiomania.ru/subwoofer/radiotehnika/radiotehnika_alfa_1-04_mk_ii.html) |  |
-| | **Итого опция** | | | **71 465** | | |
+| № | Раздел | Наименование | Кол-во | Цена, ₽ | Сумма, ₽ | Где купить | Примечание |
+|---|---|---|---|---|---|---|---|
+| 1 | Опция | Radiotehnika Alfa 1.04 MKII, активный сабвуфер 10″ | 1 шт | 49 990 | 49 990 | [Audiomania](https://www.audiomania.ru/subwoofer/radiotehnika/radiotehnika_alfa_1-04_mk_ii.html) | к каналу 3 Volta, розетка 230 В |
+| | | **Итого опция** | | | **49 990** | | |
 
