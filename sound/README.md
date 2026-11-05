@@ -5,7 +5,7 @@
 
 **Для руководства:** [`Teplica-zvuk-proekt.pdf`](Teplica-zvuk-proekt.pdf) — проект на согласование по трём вариантам (рекомендуем A); 15 страниц, с фото колонок.
 **Согласован и в закупке вариант A** (остальные на паузе). Смета A с позициями из счёта ВсеИнструменты: [ESTIMATE.md](ESTIMATE.md), счёт — [`invoices/`](invoices/); счёт Pult.ru ждём.
-**Исходная смета по всем вариантам:** [Google Sheets](https://docs.google.com/spreadsheets/d/1uV0goTIWzc8BjLMTEEd3xBQX1XKyCQEsck7-6BgJBb0/edit) — основной документ;
+**Google-таблица:** вкладка «Смета A (закупка)» — актуальная смета A со статусами, вкладка «Исходная (A, B, C)» — старая смета по всем вариантам. [Google Sheets](https://docs.google.com/spreadsheets/d/1uV0goTIWzc8BjLMTEEd3xBQX1XKyCQEsck7-6BgJBb0/edit) — основной документ;
 копия A: [smeta-teplica.xlsx](smeta-teplica.xlsx).
 **Расстановка:** [`placement-plan.png`](placement-plan.png). **Место управления (iPad, регуляторы, шкаф):** [`wall-ipad-controls.png`](wall-ipad-controls.png).
 **Габариты сабвуфера и KEF:** [`sizes-sub-kef.png`](sizes-sub-kef.png). **Фото колонок** (KEF Q350/Q150 во всех цветах, CVGaudio OSR608): [`photos/`](photos/).
