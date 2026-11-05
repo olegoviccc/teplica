@@ -7,12 +7,12 @@
 
 | Вариант | Итого, ₽ |
 |---|---|
-| Вариант A: KEF Q350 на Volta LIVE 4.400 + CA602, сабвуфер опционально | **266 419** |
-| Вариант A2: то же с KEF Q150, сабвуфер опционально | **246 419** |
+| Вариант A: KEF Q350 на Volta LIVE 4.400 + CA602, сабвуфер опционально | **246 500** |
+| Вариант A2: то же с KEF Q150, сабвуфер опционально | **226 500** |
 | Вариант B: CVGaudio 100 В, самый простой (один M-123Tm) | **178 414** |
 | Вариант C: Lab.gruppen 100 В (CA2401 + CA602), сабвуфер опционально | **240 104** |
-| Вариант A + опция «сабвуфер» | **316 409** |
-| Вариант A2 + опция «сабвуфер» | **296 409** |
+| Вариант A + опция «сабвуфер» | **296 490** |
+| Вариант A2 + опция «сабвуфер» | **276 490** |
 | Вариант C + опция «сабвуфер» | **311 569** |
 
 ## Вариант A: KEF Q350 на Volta LIVE 4.400 + CA602, сабвуфер опционально
@@ -37,16 +37,19 @@
 | 16 | Обжимной инструмент IronMaster HT-568 | 1 шт | 683 | 683 | ВсеИнструменты | в корзине, код 36827160 |
 | 17 | Кабель-канал DKC TA-GN 100×60, 2 м (01786DIY) | 1 шт | 1 320 | 1 320 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/korob-s-napravlyayuschimi-100x60-belyj-ta-gn-2m-dkc-01786-703542/) | в корзине, код 15149297 |
 | 18 | Угол плоский DKC NPAN 100×60 (01745DIY) | 1 шт | 609 | 609 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/ugol-ploskij-dkc-npan-100x60-01745diy-16157927/) | в корзине, код 35773848 |
-| 19 | Шнур питания C13 → Schuko для блока розеток | 1 шт | 400 | 400 | — | оценка; у блока вход C14, шнур отдельно |
-| 20 | Полка 19″ 1U под CA602 (полустоечный) | 1 шт | 1 200 | 1 200 | — | оценка |
-| 21 | Силовой выключатель в кабель-канал + суппорт/рамка + кабель ВВГнг-LS 3×1,5–2,5 | 1 компл | 2 000 | 2 000 | — | оценка, совместимость с TA-GN проверить |
-| 22 | Межблочная коммутация в шкафу: экранированный кабель 2×0,22 + разъёмы под входы/выходы CM82, Volta, CA602 | 1 компл | 2 000 | 2 000 | — | оценка, разъёмы сверить по приборам |
-| 23 | Разъёмы Speakon NL4FC под выходы Volta (если Speakon) | 3 шт | 400 | 1 200 | — | оценка, проверить разъёмы Volta |
-| 24 | iPad: адаптер USB-C → mini-jack, кабель mini-jack → 2×RCA, длинный кабель зарядки | 1 компл | 2 000 | 2 000 | — | оценка |
-| 25 | Кронштейны KEF B2, пара | 2 пара | 7 990 | 15 980 | [Dr.Head](https://doctorhead.ru/product/kef_b2_wall_bracket_black/) | или поворотные |
-| 26 | Дюбели под кирпич: рамные 10 мм (шкаф), универсальные 8 мм (кронштейны, канал) | 1 компл | 1 500 | 1 500 | — | оценка |
-| 27 | Гофра для уличной линии, стяжки, маркировка | 1 компл | 1 000 | 1 000 | — | оценка |
-| | **Итого** | | | **266 419** | | |
+| 19 | Speakon PROCAST M-SP4NC, кабельный штекер, под выходы Volta | 3 шт | 503 | 1 509 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/kabelnyj-4-kontaktnyj-razem-tipa-spikon-procast-cable-m-sp4nc-speakon-male-nf-00000437-4208106/) | 2 пары KEF + сабвуфер; разъёмы Volta сверить |
+| 20 | XLR штекер (папа) Pro Legend PL2172, на кабель | 3 шт | 140 | 420 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/razem-xlr-3p-shteker-pro-legend-metall-tsanga-na-kabel-chernyj-pl2172-6503935/) | CM82 выход A → входы Volta 1–3; входы Volta сверить |
+| 21 | Микрофонный кабель 2×0,22 экран, ~5 м | 5 м | 100 | 500 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabel-i-provod-mikrofonnyj-13336/) | перемычки в шкафу; на ВИ только бухты 50 м — проще взять отрезок в музыкальном магазине, оценка |
+| 22 | Адаптер USB-C → 3,5 мм с зарядкой PD (Ugreen CM231 или аналог) | 1 шт | 1 690 | 1 690 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/adapter-type-c-jack-3-5-1091183/) | iPad заряжается и играет через один порт |
+| 23 | Кабель 3,5 мм → 2×RCA, 3 м (Vention P550AC300-S или REXANT 17-4204) | 1 шт | 554 | 554 | [ВсеИнструменты](https://www.vseinstrumenti.ru/category/kabeli-rca-169039/) | iPad → CM82 |
+| 24 | Кабель USB-C – USB-C 3 м, 60 Вт (PERO DC11 PD) | 1 шт | 440 | 440 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabeli-usb-type-c-160471/) | зарядка iPad от блока розеток; нужен блок питания USB-C 20 Вт |
+| 25 | Заглушка DKC LAN 100×60 (00874) | 1 уп | 180 | 180 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/zaglushka-100x60-2sht-lan-dkc-00874-703554/) | торец канала |
+| 26 | Дюбель Fischer SXRL 10×100 с шурупом, 4 шт | 1 уп | 460 | 460 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/fasadnyj-dyubel-s-shurupom-fischer-sxrl-10h100-fus-4-sht-paket-141371-1782391/) | шкаф; цена ориентировочно |
+| 27 | Дюбель универсальный Fischer DUOPOWER 8×40, 100 шт | 1 уп | 569 | 569 | [ВсеИнструменты](https://www.vseinstrumenti.ru/krepezh/dyubeli/raspornye/fischer/duopower-8x40-100sht-555008/) | полки KEF, кронштейн iPad, улица; без шурупов — шурупы 5–6 мм отдельно |
+| 28 | Дюбель-гвоздь KRANZ 6×40, 100 шт | 1 уп | 272 | 272 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/dyubel-gvozd-kranz-gribovidnyj-bortik-6x40-polipropilen-100-sht-kr-02-3621-001-3049028/) | кабель-канал |
+| 29 | Гофра ПНД 20 мм с зондом, УФ-стойкая, 25 м (Gigant 20120-25GI) | 1 бухта | 689 | 689 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/chernye-gofrirovannye-truby-dlya-kabelya-20-mm-1433663/) | уличная линия |
+| 30 | Стяжки нейлоновые 150 мм, 100 шт | 1 уп | 78 | 78 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/nejlonovye-styazhki-150-mm-13500/) |  |
+| | **Итого** | | | **246 500** | | |
 
 **Опция «сабвуфер»**
 
@@ -77,16 +80,19 @@
 | 16 | Обжимной инструмент IronMaster HT-568 | 1 шт | 683 | 683 | ВсеИнструменты | в корзине, код 36827160 |
 | 17 | Кабель-канал DKC TA-GN 100×60, 2 м (01786DIY) | 1 шт | 1 320 | 1 320 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/korob-s-napravlyayuschimi-100x60-belyj-ta-gn-2m-dkc-01786-703542/) | в корзине, код 15149297 |
 | 18 | Угол плоский DKC NPAN 100×60 (01745DIY) | 1 шт | 609 | 609 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/ugol-ploskij-dkc-npan-100x60-01745diy-16157927/) | в корзине, код 35773848 |
-| 19 | Шнур питания C13 → Schuko для блока розеток | 1 шт | 400 | 400 | — | оценка; у блока вход C14, шнур отдельно |
-| 20 | Полка 19″ 1U под CA602 (полустоечный) | 1 шт | 1 200 | 1 200 | — | оценка |
-| 21 | Силовой выключатель в кабель-канал + суппорт/рамка + кабель ВВГнг-LS 3×1,5–2,5 | 1 компл | 2 000 | 2 000 | — | оценка, совместимость с TA-GN проверить |
-| 22 | Межблочная коммутация в шкафу: экранированный кабель 2×0,22 + разъёмы под входы/выходы CM82, Volta, CA602 | 1 компл | 2 000 | 2 000 | — | оценка, разъёмы сверить по приборам |
-| 23 | Разъёмы Speakon NL4FC под выходы Volta (если Speakon) | 3 шт | 400 | 1 200 | — | оценка, проверить разъёмы Volta |
-| 24 | iPad: адаптер USB-C → mini-jack, кабель mini-jack → 2×RCA, длинный кабель зарядки | 1 компл | 2 000 | 2 000 | — | оценка |
-| 25 | Кронштейны KEF B2, пара | 2 пара | 7 990 | 15 980 | [Dr.Head](https://doctorhead.ru/product/kef_b2_wall_bracket_black/) | или поворотные |
-| 26 | Дюбели под кирпич: рамные 10 мм (шкаф), универсальные 8 мм (кронштейны, канал) | 1 компл | 1 500 | 1 500 | — | оценка |
-| 27 | Гофра для уличной линии, стяжки, маркировка | 1 компл | 1 000 | 1 000 | — | оценка |
-| | **Итого** | | | **246 419** | | |
+| 19 | Speakon PROCAST M-SP4NC, кабельный штекер, под выходы Volta | 3 шт | 503 | 1 509 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/kabelnyj-4-kontaktnyj-razem-tipa-spikon-procast-cable-m-sp4nc-speakon-male-nf-00000437-4208106/) | 2 пары KEF + сабвуфер; разъёмы Volta сверить |
+| 20 | XLR штекер (папа) Pro Legend PL2172, на кабель | 3 шт | 140 | 420 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/razem-xlr-3p-shteker-pro-legend-metall-tsanga-na-kabel-chernyj-pl2172-6503935/) | CM82 выход A → входы Volta 1–3; входы Volta сверить |
+| 21 | Микрофонный кабель 2×0,22 экран, ~5 м | 5 м | 100 | 500 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabel-i-provod-mikrofonnyj-13336/) | перемычки в шкафу; на ВИ только бухты 50 м — проще взять отрезок в музыкальном магазине, оценка |
+| 22 | Адаптер USB-C → 3,5 мм с зарядкой PD (Ugreen CM231 или аналог) | 1 шт | 1 690 | 1 690 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/adapter-type-c-jack-3-5-1091183/) | iPad заряжается и играет через один порт |
+| 23 | Кабель 3,5 мм → 2×RCA, 3 м (Vention P550AC300-S или REXANT 17-4204) | 1 шт | 554 | 554 | [ВсеИнструменты](https://www.vseinstrumenti.ru/category/kabeli-rca-169039/) | iPad → CM82 |
+| 24 | Кабель USB-C – USB-C 3 м, 60 Вт (PERO DC11 PD) | 1 шт | 440 | 440 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/kabeli-usb-type-c-160471/) | зарядка iPad от блока розеток; нужен блок питания USB-C 20 Вт |
+| 25 | Заглушка DKC LAN 100×60 (00874) | 1 уп | 180 | 180 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/zaglushka-100x60-2sht-lan-dkc-00874-703554/) | торец канала |
+| 26 | Дюбель Fischer SXRL 10×100 с шурупом, 4 шт | 1 уп | 460 | 460 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/fasadnyj-dyubel-s-shurupom-fischer-sxrl-10h100-fus-4-sht-paket-141371-1782391/) | шкаф; цена ориентировочно |
+| 27 | Дюбель универсальный Fischer DUOPOWER 8×40, 100 шт | 1 уп | 569 | 569 | [ВсеИнструменты](https://www.vseinstrumenti.ru/krepezh/dyubeli/raspornye/fischer/duopower-8x40-100sht-555008/) | полки KEF, кронштейн iPad, улица; без шурупов — шурупы 5–6 мм отдельно |
+| 28 | Дюбель-гвоздь KRANZ 6×40, 100 шт | 1 уп | 272 | 272 | [ВсеИнструменты](https://www.vseinstrumenti.ru/product/dyubel-gvozd-kranz-gribovidnyj-bortik-6x40-polipropilen-100-sht-kr-02-3621-001-3049028/) | кабель-канал |
+| 29 | Гофра ПНД 20 мм с зондом, УФ-стойкая, 25 м (Gigant 20120-25GI) | 1 бухта | 689 | 689 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/chernye-gofrirovannye-truby-dlya-kabelya-20-mm-1433663/) | уличная линия |
+| 30 | Стяжки нейлоновые 150 мм, 100 шт | 1 уп | 78 | 78 | [ВсеИнструменты](https://www.vseinstrumenti.ru/tag-page/nejlonovye-styazhki-150-mm-13500/) |  |
+| | **Итого** | | | **226 500** | | |
 
 **Опция «сабвуфер»**
 
