@@ -4,7 +4,7 @@
 одна музыка, источник — **iPad на кронштейне** у шкафа, у каждой зоны свой регулятор громкости.
 
 **Для руководства:** [`Teplica-zvuk-proekt.pdf`](Teplica-zvuk-proekt.pdf) — проект на согласование по трём вариантам (рекомендуем A); 15 страниц, с фото колонок.
-**Согласован и в закупке вариант A** (остальные на паузе). Смета A с позициями из счёта ВсеИнструменты: [ESTIMATE.md](ESTIMATE.md), счета ВсеИнструменты и Pult.ru (от 30.10, обновится) — [`invoices/`](invoices/). Слайд места управления (шкаф 12U, кабель-канал DKC, размеры): [`slide-mesto-upravleniya.pdf`](slide-mesto-upravleniya.pdf).
+**Согласован и в закупке вариант A** (остальные на паузе). Смета A с позициями из счёта ВсеИнструменты: [ESTIMATE.md](ESTIMATE.md), счета ВсеИнструменты и Pult.ru (от 30.10, обновится) — [`invoices/`](invoices/). Раскладка шкафа 12U (звук + видеонаблюдение, сеть, ИБП): [`rack-12u-layout.png`](rack-12u-layout.png). Слайд места управления (шкаф 12U, кабель-канал DKC, размеры): [`slide-mesto-upravleniya.pdf`](slide-mesto-upravleniya.pdf).
 **Google-таблица:** вкладка «Смета A (закупка)» — актуальная смета A со статусами, вкладка «Исходная (A, B, C)» — старая смета по всем вариантам. [Google Sheets](https://docs.google.com/spreadsheets/d/1uV0goTIWzc8BjLMTEEd3xBQX1XKyCQEsck7-6BgJBb0/edit) — основной документ;
 копия A: [smeta-teplica.xlsx](smeta-teplica.xlsx).
 **Расстановка:** [`placement-plan.png`](placement-plan.png). **Место управления (iPad, регуляторы, шкаф):** [`wall-ipad-controls.png`](wall-ipad-controls.png).
