@@ -41,7 +41,7 @@
 <text x="489.6" y="516.88" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">ИБП SVEN Pro 600</text>
 <text x="489.6" y="548.88" text-anchor="middle" font-size="20" fill="#d8dde8">на 2-й полке; размеры уточнить</text>
 <rect x="213.92" y="607.5999999999999" width="772.1600000000001" height="70.4" rx="5" fill="#4a4f5c" stroke="#0f1115" stroke-width="2"/>
-<text x="600.0" y="651.8" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">Блок розеток ExeGate PDU-19H901</text>
+<text x="600.0" y="651.8" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">Блок розеток ExeGate PDU-19H801 с выключателем</text>
 <rect x="213.92" y="749.84" width="772.1600000000001" height="70.4" rx="5" fill="#1d2129" stroke="#0f1115" stroke-width="2"/>
 <text x="600.0" y="794.0400000000001" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">Lab.gruppen CM82</text>
 <rect x="213.92" y="820.96" width="380.8" height="70.4" rx="5" fill="#1d2129" stroke="#0f1115" stroke-width="2"/>
@@ -61,9 +61,9 @@
 <text x="1206.0" y="500.2" font-size="23" fill="#5b6475">питает видеорегистратор, коммутатор и роутер;</text>
 <text x="1206.0" y="532.2" font-size="23" fill="#5b6475">включён в свою розетку у шкафа, не в блок с выключателем</text>
 <rect x="1170.0" y="586.4399999999998" width="22" height="22" rx="4" fill="#4a4f5c"/>
-<text x="1206.0" y="606.4399999999998" font-size="28" font-weight="700" fill="#141a26">U7 · Блок розеток ExeGate PDU-19H901</text>
-<text x="1206.0" y="642.4399999999998" font-size="23" fill="#5b6475">шнур C13 → Schuko в розетку у шкафа, она идёт через</text>
-<text x="1206.0" y="674.4399999999998" font-size="23" fill="#5b6475">выключатель с подсветкой у регуляторов — звук гасится оттуда</text>
+<text x="1206.0" y="606.4399999999998" font-size="28" font-weight="700" fill="#141a26">U7 · Блок розеток с выключателем</text>
+<text x="1206.0" y="642.4399999999998" font-size="23" fill="#5b6475">ExeGate PDU-19H801: 8 Schuko, выключатель; шнур C13 → Schuko в розетку</text>
+<text x="1206.0" y="674.4399999999998" font-size="23" fill="#5b6475">выключает весь звук разом</text>
 <rect x="1170.0" y="764.2399999999998" width="22" height="22" rx="4" fill="#1d2129"/>
 <text x="1206.0" y="784.2399999999998" font-size="28" font-weight="700" fill="#141a26">U4–U5 · Звук: CM82 и CA602</text>
 <text x="1206.0" y="820.2399999999998" font-size="23" fill="#5b6475">CM82 — 1U во всю ширину; CA602 — полустоечный, штатный крепёж</text>
