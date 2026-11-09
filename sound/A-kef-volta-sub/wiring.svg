@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2600 1560" font-family="Inter, Arial, sans-serif">
+<rect width="2600" height="1560" fill="#ffffff"/>
+<text x="60" y="64" font-size="44" font-weight="700" fill="#141a26">Теплица · вариант A · схема коммутации</text>
+<line x1="620" y1="102" x2="670" y2="102" stroke="#2d6cdf" stroke-width="7" />
+<text x="680" y="110" font-size="22" fill="#5b6475">линейный сигнал</text>
+<line x1="890" y1="102" x2="940" y2="102" stroke="#c06a1d" stroke-width="7" />
+<text x="950" y="110" font-size="22" fill="#5b6475">акустика 2×2,5</text>
+<line x1="1160" y1="102" x2="1210" y2="102" stroke="#c0392b" stroke-width="7" />
+<text x="1220" y="110" font-size="22" fill="#5b6475">линия 100 В 2×2,5</text>
+<line x1="1440" y1="102" x2="1490" y2="102" stroke="#7a4fd6" stroke-width="7" />
+<text x="1500" y="110" font-size="22" fill="#5b6475">управление Cat5e (FTP)</text>
+<line x1="1810" y1="102" x2="1860" y2="102" stroke="#5b6475" stroke-width="7" stroke-dasharray="10 8"/>
+<text x="1870" y="110" font-size="22" fill="#5b6475">iPad: USB-C / mini-jack</text>
+<rect x="50" y="130" width="470" height="1060" rx="18" fill="#f6f7f9"/>
+<text x="70" y="172" font-size="26" font-weight="700" fill="#141a26">Место управления · 1700 мм</text>
+<text x="70" y="202" font-size="20" fill="#5b6475">кабель-канал DKC 100×60 у шкафа</text>
+<rect x="90" y="240" width="380" height="190" rx="14" fill="#eaf1fd" stroke="#2d6cdf" stroke-width="3" />
+<text x="280.0" y="282" text-anchor="middle" font-size="30" font-weight="700" fill="#141a26">iPad 10,9″</text>
+<text x="280.0" y="318" text-anchor="middle" font-size="21" fill="#5b6475">на кронштейне;</text>
+<text x="280.0" y="346" text-anchor="middle" font-size="21" fill="#5b6475">USB-C → 3,5 мм</text>
+<text x="280.0" y="374" text-anchor="middle" font-size="21" fill="#5b6475">адаптер с зарядкой PD</text>
+<circle cx="470" cy="330" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="486" y="337" text-anchor="start" font-size="20" font-weight="600" fill="#ffffff"></text>
+<rect x="90" y="830" width="120" height="120" rx="14" fill="#f1ebfb" stroke="#7a4fd6" stroke-width="3" />
+<text x="150.0" y="872" text-anchor="middle" font-size="24" font-weight="700" fill="#141a26">ЗАЛ</text>
+<text x="150.0" y="908" text-anchor="middle" font-size="21" fill="#5b6475">CRC-V</text>
+<rect x="220" y="830" width="120" height="120" rx="14" fill="#f1ebfb" stroke="#7a4fd6" stroke-width="3" />
+<text x="280.0" y="872" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">УЛИЦА</text>
+<text x="280.0" y="908" text-anchor="middle" font-size="21" fill="#5b6475">CRC-V</text>
+<rect x="350" y="830" width="120" height="120" rx="14" fill="#f1ebfb" stroke="#7a4fd6" stroke-width="3" />
+<text x="410.0" y="872" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">ТУАЛЕТ</text>
+<text x="410.0" y="908" text-anchor="middle" font-size="21" fill="#5b6475">CRC-V</text>
+<rect x="90" y="1000" width="380" height="90" rx="14" fill="#fdecec" stroke="#c0392b" stroke-width="3" />
+<text x="280.0" y="1042" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">Выключатель 230 В</text>
+<text x="90" y="1130" font-size="19" fill="#5b6475">ставят электрики; линия 230 В → блок розеток</text>
+<rect x="620" y="130" width="1140" height="1150" rx="18" fill="none" stroke="#2b2f3a" stroke-width="3" stroke-dasharray="16 10"/>
+<text x="640" y="172" font-size="26" font-weight="700" fill="#141a26">Шкаф ExeGate 12U</text>
+<rect x="690" y="300" width="380" height="260" rx="14" fill="#1d2129" stroke="#1d2129" stroke-width="3" />
+<text x="880.0" y="342" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">Lab.gruppen CM82</text>
+<text x="880.0" y="378" text-anchor="middle" font-size="21" fill="#cfd5e0">микшер 8×2</text>
+<circle cx="690" cy="380" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="706" y="387" text-anchor="start" font-size="20" font-weight="600" fill="#ffffff">IN C (RCA)</text>
+<circle cx="690" cy="500" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="706" y="507" text-anchor="start" font-size="20" font-weight="600" fill="#ffffff">REMOTE A (RJ45)</text>
+<circle cx="1070" cy="380" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1054" y="387" text-anchor="end" font-size="20" font-weight="600" fill="#ffffff">OUT A</text>
+<circle cx="1070" cy="500" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1054" y="507" text-anchor="end" font-size="20" font-weight="600" fill="#ffffff">OUT B</text>
+<rect x="1310" y="220" width="380" height="340" rx="14" fill="#b0502a" stroke="#b0502a" stroke-width="3" />
+<text x="1500.0" y="262" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">Volta LIVE 4.400</text>
+<text x="1500.0" y="298" text-anchor="middle" font-size="21" fill="#cfd5e0">MODE: PARALLEL</text>
+<text x="1500.0" y="326" text-anchor="middle" font-size="21" fill="#cfd5e0">(сигнал канала 1 на все 4)</text>
+<circle cx="1310" cy="380" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1326" y="387" text-anchor="start" font-size="20" font-weight="600" fill="#ffffff">IN 1 (XLR)</text>
+<circle cx="1690" cy="300" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1674" y="307" text-anchor="end" font-size="20" font-weight="600" fill="#ffffff">OUT 1</text>
+<circle cx="1690" cy="400" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1674" y="407" text-anchor="end" font-size="20" font-weight="600" fill="#ffffff">OUT 2</text>
+<circle cx="1690" cy="500" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1674" y="507" text-anchor="end" font-size="20" font-weight="600" fill="#ffffff">OUT 3</text>
+<rect x="1310" y="700" width="380" height="300" rx="14" fill="#1d2129" stroke="#1d2129" stroke-width="3" />
+<text x="1500.0" y="742" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">Lab.gruppen CA602</text>
+<text x="1500.0" y="778" text-anchor="middle" font-size="21" fill="#cfd5e0">есть; режим 100 В, ФВЧ ON</text>
+<circle cx="1310" cy="860" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1326" y="867" text-anchor="start" font-size="20" font-weight="600" fill="#ffffff">IN A + B (Euroblock)</text>
+<circle cx="1690" cy="840" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1674" y="847" text-anchor="end" font-size="20" font-weight="600" fill="#ffffff">OUT A 100 В</text>
+<circle cx="1690" cy="940" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1674" y="947" text-anchor="end" font-size="20" font-weight="600" fill="#ffffff">OUT B 100 В</text>
+<circle cx="1400" cy="1000" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1416" y="1007" text-anchor="start" font-size="20" font-weight="600" fill="#ffffff"></text>
+<circle cx="1560" cy="1000" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
+<text x="1576" y="1007" text-anchor="start" font-size="20" font-weight="600" fill="#ffffff"></text>
+<text x="1400" y="1040" text-anchor="middle" font-size="19" font-weight="600" fill="#141a26">RJ45 «B»</text>
+<text x="1560" y="1040" text-anchor="middle" font-size="19" font-weight="600" fill="#141a26">RJ45 «A+B»</text>
+<rect x="690" y="1100" width="380" height="140" rx="14" fill="#eef0f4" stroke="#9aa3b5" stroke-width="3" />
+<text x="880.0" y="1142" text-anchor="middle" font-size="24" font-weight="700" fill="#141a26">Блок розеток ExeGate</text>
+<text x="880.0" y="1178" text-anchor="middle" font-size="21" fill="#5b6475">CM82, Volta, CA602,</text>
+<text x="880.0" y="1206" text-anchor="middle" font-size="21" fill="#5b6475">зарядка iPad 20 Вт</text>
+<text x="1110" y="1160" font-size="19" fill="#5b6475">ИБП SVEN — только видеорегистратор,</text>
+<text x="1110" y="1186" font-size="19" fill="#5b6475">коммутатор и роутер; звук от него не питаем</text>
+<rect x="1880" y="150" width="680" height="470" rx="14" fill="#fbf1e6" stroke="#c06a1d" stroke-width="3" />
+<text x="2220.0" y="192" text-anchor="middle" font-size="30" font-weight="700" fill="#141a26">ЗАЛ</text>
+<rect x="1990" y="220" width="260" height="80" rx="14" fill="#ffffff" stroke="#9aa3b5" stroke-width="3" />
+<text x="2120.0" y="262" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">KEF Q350 №1</text>
+<rect x="2280" y="220" width="260" height="80" rx="14" fill="#ffffff" stroke="#9aa3b5" stroke-width="3" />
+<text x="2410.0" y="262" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">KEF Q350 №2</text>
+<rect x="1990" y="330" width="260" height="80" rx="14" fill="#ffffff" stroke="#9aa3b5" stroke-width="3" />
+<text x="2120.0" y="372" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">KEF Q350 №3</text>
+<rect x="2280" y="330" width="260" height="80" rx="14" fill="#ffffff" stroke="#9aa3b5" stroke-width="3" />
+<text x="2410.0" y="372" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">KEF Q350 №4</text>
+<rect x="1990" y="470" width="550" height="110" rx="14" fill="#ffffff" stroke="#9aa3b5" stroke-width="3" stroke-dasharray="14 10"/>
+<text x="2265.0" y="512" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">Сабвуфер Radiotehnika (опция)</text>
+<text x="2265.0" y="548" text-anchor="middle" font-size="21" fill="#5b6475">вход высокого уровня, розетка 230 В рядом</text>
+<rect x="1880" y="700" width="680" height="170" rx="14" fill="#fdecec" stroke="#c0392b" stroke-width="3" />
+<text x="2220.0" y="742" text-anchor="middle" font-size="30" font-weight="700" fill="#141a26">УЛИЦА</text>
+<text x="2220.0" y="778" text-anchor="middle" font-size="21" fill="#5b6475">CVGaudio OSR608TW, отвод 20 Вт, IP65</text>
+<rect x="1880" y="920" width="680" height="170" rx="14" fill="#fdecec" stroke="#c0392b" stroke-width="3" />
+<text x="2220.0" y="962" text-anchor="middle" font-size="30" font-weight="700" fill="#141a26">ТУАЛЕТ</text>
+<text x="2220.0" y="998" text-anchor="middle" font-size="21" fill="#5b6475">CVGaudio CRH608T (есть), 8 Вт</text>
+<path d="M470 330 L580 330 L580 380 L690 380" fill="none" stroke="#5b6475" stroke-width="6" stroke-linejoin="round" stroke-dasharray="12 9"/>
+<text x="500" y="420" font-size="20" fill="#5b6475" font-weight="600">Klotz AY7-0300</text>
+<text x="500" y="445" font-size="20" fill="#5b6475" font-weight="600">3,5 → 2×RCA</text>
+<text x="500" y="470" font-size="20" fill="#5b6475" font-weight="600">3 м</text>
+<path d="M1070 380 L1310 380" fill="none" stroke="#2d6cdf" stroke-width="6" stroke-linejoin="round" />
+<text x="1085" y="420" font-size="20" fill="#2d6cdf" font-weight="600">Roxtone XLR 2 м</text>
+<text x="1085" y="445" font-size="20" fill="#2d6cdf" font-weight="600">мама → Euroblock</text>
+<path d="M1070 500 L1200 500 L1200 860 L1310 860" fill="none" stroke="#2d6cdf" stroke-width="6" stroke-linejoin="round" />
+<text x="1080" y="600" font-size="20" fill="#2d6cdf" font-weight="600">Roxtone XLR 2 м</text>
+<text x="1080" y="625" font-size="20" fill="#2d6cdf" font-weight="600">оба конца срезаны;</text>
+<text x="1080" y="650" font-size="20" fill="#2d6cdf" font-weight="600">на CA602 перемычка A→B</text>
+<path d="M1690 300 L1800 300 L1800 260 L1990 260" fill="none" stroke="#c06a1d" stroke-width="6" stroke-linejoin="round" />
+<path d="M1690 400 L1830 400 L1830 370 L1990 370" fill="none" stroke="#c06a1d" stroke-width="6" stroke-linejoin="round" />
+<path d="M1690 500 L1990 525" fill="none" stroke="#c06a1d" stroke-width="6" stroke-linejoin="round" stroke-dasharray="12 9"/>
+<text x="1700" y="640" font-size="19" fill="#c06a1d" font-weight="600">Speakon, 2×2,5;</text>
+<text x="1700" y="664" font-size="19" fill="#c06a1d" font-weight="600">пара KEF параллельно = 4 Ом</text>
+<path d="M1690 840 L1880 840" fill="none" stroke="#c0392b" stroke-width="6" stroke-linejoin="round" />
+<path d="M1690 940 L1780 940 L1780 1000 L1880 1000" fill="none" stroke="#c0392b" stroke-width="6" stroke-linejoin="round" />
+<text x="1700" y="1130" font-size="19" fill="#c0392b" font-weight="600">улица — кабель в гофре 20 мм</text>
+<path d="M150 830 L150 500 L690 500" fill="none" stroke="#7a4fd6" stroke-width="6" stroke-linejoin="round" />
+<text x="170" y="485" font-size="20" fill="#7a4fd6" font-weight="600">Cat5e, RJ45</text>
+<path d="M410 950 L410 1300 L1400 1300 L1400 1000" fill="none" stroke="#7a4fd6" stroke-width="6" stroke-linejoin="round" />
+<path d="M280 950 L280 1340 L1560 1340 L1560 1000" fill="none" stroke="#7a4fd6" stroke-width="6" stroke-linejoin="round" />
+<text x="700" y="1325" font-size="20" fill="#7a4fd6" font-weight="600">ТУАЛЕТ → CA602 RJ45 «B» (канал B)</text>
+<text x="700" y="1368" font-size="20" fill="#7a4fd6" font-weight="600">УЛИЦА → CA602 RJ45 «A+B» (канал A)</text>
+<text x="60" y="1420" font-size="21" fill="#5b6475">Кабели XLR из КП Пульта: в работе 2 × 2 м (выходы CM82). 6 × 1 м — запас; один уйдёт</text>
+<text x="60" y="1448" font-size="21" fill="#5b6475">с LINK канала 1 на IN 3 Volta, если PARALLEL у этой модели связывает каналы только парами.</text>
+<text x="60" y="1476" font-size="21" fill="#5b6475">CM82: выходы — Euroblock 3 pin (pin 2 «+», pin 3 «−», pin 1 экран). Стерео с iPad суммируется в моно.</text>
+<text x="60" y="1504" font-size="21" fill="#5b6475">Канал 4 Volta — свободен (резерв). Регулятор «ЗАЛ» стоит до Volta: убавляет и KEF, и сабвуфер.</text>
+<text x="60" y="1532" font-size="21" fill="#5b6475">Сверить по месту: разъёмы на задней панели Volta (XLR / Speakon) и режим PARALLEL для 4 каналов.</text>
+</svg>

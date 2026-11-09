@@ -4,7 +4,7 @@
 одна музыка, источник — **iPad на кронштейне** у шкафа, у каждой зоны свой регулятор громкости.
 
 **Для руководства:** [`Teplica-zvuk-proekt.pdf`](Teplica-zvuk-proekt.pdf) — проект на согласование по трём вариантам (рекомендуем A); 15 страниц, с фото колонок.
-**Согласован и в закупке вариант A** (остальные на паузе). Смета A с позициями из счёта ВсеИнструменты: [ESTIMATE.md](ESTIMATE.md), счета ВсеИнструменты и Pult.ru (от 30.10, обновится) — [`invoices/`](invoices/). Раскладка шкафа 12U (звук + видеонаблюдение, сеть, ИБП): [`rack-12u-layout.png`](rack-12u-layout.png). Слайд места управления (шкаф 12U, кабель-канал DKC, размеры): [`slide-mesto-upravleniya.pdf`](slide-mesto-upravleniya.pdf).
+**Согласован и в закупке вариант A** (остальные на паузе). Смета A с позициями из счёта ВсеИнструменты: [ESTIMATE.md](ESTIMATE.md), счета ВсеИнструменты и Pult.ru (от 30.10, обновится) — [`invoices/`](invoices/). Схема коммутации A: [`A-kef-volta-sub/wiring.png`](A-kef-volta-sub/wiring.png). Раскладка шкафа 12U (звук + видеонаблюдение, сеть, ИБП): [`rack-12u-layout.png`](rack-12u-layout.png). Слайд места управления (шкаф 12U, кабель-канал DKC, размеры): [`slide-mesto-upravleniya.pdf`](slide-mesto-upravleniya.pdf).
 **Google-таблица:** вкладка «Смета A (закупка)» — актуальная смета A со статусами, вкладка «Исходная (A, B, C)» — старая смета по всем вариантам. [Google Sheets](https://docs.google.com/spreadsheets/d/1uV0goTIWzc8BjLMTEEd3xBQX1XKyCQEsck7-6BgJBb0/edit) — основной документ;
 копия A: [smeta-teplica.xlsx](smeta-teplica.xlsx).
 **Расстановка:** [`placement-plan.png`](placement-plan.png). **Место управления (iPad, регуляторы, шкаф):** [`wall-ipad-controls.png`](wall-ipad-controls.png).
@@ -19,8 +19,8 @@
 | Электроника | CM82 + Volta LIVE 4.400 + CA602 (есть) | как A | CVGaudio M-123Tm | CM82 + CA2401 + CA602 (есть) |
 | Регуляторы | 3 × Lab.gruppen CRC-V | 3 × CRC-V | 3 × CVGaudio VA | 3 × CRC-V |
 | Сабвуфер | опция: Radiotehnika (+49 990) | опция: Radiotehnika (+49 990) | нет | опция: KM750 + Radiotehnika (+71 465) |
-| **Без сабвуфера** | **227 311 ₽** | **207 311 ₽** | **178 414 ₽** | **240 104 ₽** |
-| **С сабвуфером** | **277 301 ₽** | **257 301 ₽** | — | **311 569 ₽** |
+| **Без сабвуфера** | **233 671 ₽** | **213 671 ₽** | **178 414 ₽** | **240 104 ₽** |
+| **С сабвуфером** | **283 661 ₽** | **263 661 ₽** | — | **311 569 ₽** |
 
 > Сметы A и A2 в этом репозитории и в PDF уже с сабвуфером в опции и с вариантом A2; в Google-таблице этих изменений пока нет.
 
