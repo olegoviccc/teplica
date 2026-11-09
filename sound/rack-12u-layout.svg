@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2200 1500" font-family="Inter, Arial, sans-serif">
 <rect width="2200" height="1500" fill="#ffffff"/>
 <text x="120" y="80" font-size="44" font-weight="700" fill="#141a26">Шкаф ExeGate 12U (600 × 635 × 450): раскладка по юнитам, вид спереди</text>
-<text x="120" y="128" font-size="28" fill="#5b6475">сверху — видеонаблюдение и сеть, питание; ниже — звук; Volta в самом низу. Роутер и ИБП — вне шкафа</text>
+<text x="120" y="128" font-size="28" fill="#5b6475">сверху — видеонаблюдение и сеть, питание; ниже — звук; Volta в самом низу. Роутер — вне шкафа</text>
 <rect x="120" y="170" width="960.0" height="1016.0" rx="12" fill="#2b2f3a"/>
 <rect x="240.0" y="251.27999999999992" width="720.0" height="853.4400000000002" fill="#3a4050"/>
 <rect x="213.92" y="251.27999999999992" width="22.400000000000002" height="853.4400000000002" fill="#5b6273"/>
@@ -36,8 +36,12 @@
 <text x="457.6" y="377.1199999999999" text-anchor="middle" font-size="20" fill="#d8dde8">260×225×48 + HDD 3 ТБ</text>
 <rect x="684.8000000000001" y="343.5199999999999" width="252.8" height="40.0" rx="6" fill="#2a8c6a" stroke="#0f1115" stroke-width="2"/>
 <text x="811.2" y="372.5199999999999" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">TP-Link LS108G</text>
+<rect x="213.92" y="600.88" width="772.1600000000001" height="10" fill="#9aa3b5"/>
+<rect x="249.6" y="436.88" width="480.0" height="160.0" rx="6" fill="#6b4fa0" stroke="#0f1115" stroke-width="2"/>
+<text x="489.6" y="516.88" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">ИБП SVEN Pro 600</text>
+<text x="489.6" y="548.88" text-anchor="middle" font-size="20" fill="#d8dde8">на 2-й полке; размеры уточнить</text>
 <rect x="213.92" y="607.5999999999999" width="772.1600000000001" height="70.4" rx="5" fill="#4a4f5c" stroke="#0f1115" stroke-width="2"/>
-<text x="600.0" y="651.8" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">Блок розеток ExeGate PDU 9 Schuko</text>
+<text x="600.0" y="651.8" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">Блок розеток ExeGate PDU-19H801 с выключателем</text>
 <rect x="213.92" y="749.84" width="772.1600000000001" height="70.4" rx="5" fill="#1d2129" stroke="#0f1115" stroke-width="2"/>
 <text x="600.0" y="794.0400000000001" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">Lab.gruppen CM82</text>
 <rect x="213.92" y="820.96" width="380.8" height="70.4" rx="5" fill="#1d2129" stroke="#0f1115" stroke-width="2"/>
@@ -45,7 +49,6 @@
 <rect x="213.92" y="1002.3200000000003" width="772.1600000000001" height="102.4" rx="5" fill="#b0502a" stroke="#0f1115" stroke-width="2"/>
 <text x="600.0" y="1053.5200000000002" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">Volta LIVE 4.400 (1,5U)</text>
 <text x="600.0" y="1083.5200000000002" text-anchor="middle" font-size="20" fill="#d8dde8">480 × 231 × 64, вентиляторы</text>
-<text x="600.0" y="508.2" text-anchor="middle" font-size="22" fill="#aab2c3" font-style="italic">свободно — запас; сюда ИБП на 2-й полке, если решите</text>
 <text x="600.0" y="721.56" text-anchor="middle" font-size="22" fill="#aab2c3" font-style="italic">свободно — зазор/вентиляция</text>
 <text x="600.0" y="934.9199999999998" text-anchor="middle" font-size="22" fill="#aab2c3" font-style="italic">свободно — зазор над Volta</text>
 <rect x="1170.0" y="266.3999999999999" width="22" height="22" rx="4" fill="#1f6f8b"/>
@@ -54,12 +57,13 @@
 <text x="1206.0" y="354.3999999999999" font-size="23" fill="#5b6475">HDD Seagate 3 ТБ ставится внутрь NVR</text>
 <text x="1206.0" y="386.3999999999999" font-size="23" fill="#5b6475">роутер Keenetic Giga — вне шкафа (по заданию)</text>
 <rect x="1170.0" y="444.2" width="22" height="22" rx="4" fill="#6b4fa0"/>
-<text x="1206.0" y="464.2" font-size="28" font-weight="700" fill="#141a26">U8–U10 · свободно</text>
-<text x="1206.0" y="500.2" font-size="23" fill="#5b6475">ИБП SVEN Pro 600 — по месту (рядом со шкафом);</text>
-<text x="1206.0" y="532.2" font-size="23" fill="#5b6475">если в шкаф — вторая полка 1U сюда. Звук от ИБП не питаем</text>
+<text x="1206.0" y="464.2" font-size="28" font-weight="700" fill="#141a26">U8–U10 · ИБП SVEN Pro 600 (вторая полка)</text>
+<text x="1206.0" y="500.2" font-size="23" fill="#5b6475">питает видеорегистратор, коммутатор и роутер;</text>
+<text x="1206.0" y="532.2" font-size="23" fill="#5b6475">включён в свою розетку у шкафа, не в блок с выключателем</text>
 <rect x="1170.0" y="586.4399999999998" width="22" height="22" rx="4" fill="#4a4f5c"/>
-<text x="1206.0" y="606.4399999999998" font-size="28" font-weight="700" fill="#141a26">U7 · Блок розеток ExeGate PDU</text>
-<text x="1206.0" y="642.4399999999998" font-size="23" fill="#5b6475">9 Schuko; вход C14 → шнур C13–Schuko (у электриков)</text>
+<text x="1206.0" y="606.4399999999998" font-size="28" font-weight="700" fill="#141a26">U7 · Блок розеток с выключателем</text>
+<text x="1206.0" y="642.4399999999998" font-size="23" fill="#5b6475">ExeGate PDU-19H801: 8 Schuko, выключатель; шнур C13 → Schuko в розетку</text>
+<text x="1206.0" y="674.4399999999998" font-size="23" fill="#5b6475">выключает весь звук разом</text>
 <rect x="1170.0" y="764.2399999999998" width="22" height="22" rx="4" fill="#1d2129"/>
 <text x="1206.0" y="784.2399999999998" font-size="28" font-weight="700" fill="#141a26">U4–U5 · Звук: CM82 и CA602</text>
 <text x="1206.0" y="820.2399999999998" font-size="23" fill="#5b6475">CM82 — 1U во всю ширину; CA602 — полустоечный, штатный крепёж</text>
@@ -70,5 +74,5 @@
 <text x="1206.0" y="1065.6" font-size="23" fill="#5b6475">U3 свободен — зазор для вентиляции</text>
 <line x1="120" y1="1226.0" x2="1080.0" y2="1226.0" stroke="#c0392b" stroke-width="3"/>
 <text x="600.0" y="1266.0" text-anchor="middle" font-size="28" font-weight="700" fill="#c0392b">600 мм, глубина 450 мм</text>
-<text x="120" y="1460" font-size="24" fill="#5b6475">Занято 7U из 12U. Полка: ITK RS135-350P-R, 1U, 350 мм — под видеорегистратор и коммутатор (в смете). Вторая — только если ИБП в шкаф.</text>
+<text x="120" y="1460" font-size="24" fill="#5b6475">Занято 10U из 12U. 2 полки Офион ПК1U-300 (1U, 300 мм): под видеорегистратор с коммутатором и под ИБП.</text>
 </svg>

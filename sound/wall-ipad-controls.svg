@@ -42,9 +42,6 @@
 <circle cx="1530" cy="1300" r="24" fill="#ffffff" stroke="#7a4fd6" stroke-width="5"/>
 <line x1="1530" y1="1300" x2="1540" y2="1284" stroke="#7a4fd6" stroke-width="5" stroke-linecap="round"/>
 <text x="1530" y="1380.0" text-anchor="middle" font-size="18" font-weight="700" fill="#7a4fd6">ТУАЛЕТ</text>
-<rect x="1640" y="1270" width="60" height="60" rx="5" fill="#ffffff" stroke="#6b7385" stroke-width="3"/>
-<rect x="1658" y="1282" width="24" height="36" rx="3" fill="#c0392b"/>
-<text x="1670" y="1380.0" text-anchor="middle" font-size="18" font-weight="700" fill="#c0392b">ПИТАНИЕ</text>
 <line x1="1150" y1="1210.0" x2="1910" y2="1210.0" stroke="#c0392b" stroke-width="3"/>
 <line x1="1150" y1="1192.0" x2="1150" y2="1228.0" stroke="#c0392b" stroke-width="3"/>
 <line x1="1910" y1="1192.0" x2="1910" y2="1228.0" stroke="#c0392b" stroke-width="3"/>
@@ -79,8 +76,8 @@
 <text x="805.4000000000001" y="1674" font-size="30" fill="#5b6475">249 × 180 × 7 мм, центр на 1700 мм; вылет 80–200 мм</text>
 <text x="805.4000000000001" y="1750" font-size="36" font-weight="700" fill="#141a26">Кабель-канал DKC TA-GN 100 × 60 мм (белый)</text>
 <text x="805.4000000000001" y="1794" font-size="30" fill="#5b6475">спуск от шкафа 250 мм → угол плоский NPAN → горизонталь 760 мм → заглушка</text>
-<text x="805.4000000000001" y="1834" font-size="30" fill="#5b6475">внутри: питание и аудио iPad, 3 × Cat5e к регуляторам, питание 230 В (через перегородку)</text>
-<text x="805.4000000000001" y="1910" font-size="36" font-weight="700" fill="#141a26">3 × Lab.gruppen CRC-VEU + выключатель питания</text>
+<text x="805.4000000000001" y="1834" font-size="30" fill="#5b6475">внутри: зарядка и аудио iPad, 3 × Cat5e к регуляторам; выключатель питания — на блоке розеток в шкафу</text>
+<text x="805.4000000000001" y="1910" font-size="36" font-weight="700" fill="#141a26">3 × Lab.gruppen CRC-VEU</text>
 <text x="805.4000000000001" y="1954" font-size="30" fill="#5b6475">регуляторы 80 × 80 × 41 мм в вырезах крышки канала (глубина канала 60 мм), шаг 85 мм</text>
 <text x="805.4000000000001" y="1994" font-size="30" fill="#5b6475">центр всех элементов на 1700 мм — выше плеча, не задевается</text>
 <g fill="#d9d4cb"><circle cx="330" cy="1350" r="100"/><rect x="180" y="1470" width="300" height="680" rx="120"/><rect x="210" y="2140" width="100" height="860" rx="40"/><rect x="350" y="2140" width="100" height="860" rx="40"/></g>

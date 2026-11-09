@@ -16,9 +16,9 @@
 <text x="70" y="202" font-size="20" fill="#5b6475">кабель-канал DKC 100×60 у шкафа</text>
 <rect x="90" y="240" width="380" height="190" rx="14" fill="#eaf1fd" stroke="#2d6cdf" stroke-width="3" />
 <text x="280.0" y="282" text-anchor="middle" font-size="30" font-weight="700" fill="#141a26">iPad 10,9″</text>
-<text x="280.0" y="318" text-anchor="middle" font-size="21" fill="#5b6475">на кронштейне;</text>
-<text x="280.0" y="346" text-anchor="middle" font-size="21" fill="#5b6475">USB-C → 3,5 мм</text>
-<text x="280.0" y="374" text-anchor="middle" font-size="21" fill="#5b6475">адаптер с зарядкой PD</text>
+<text x="280.0" y="318" text-anchor="middle" font-size="21" fill="#5b6475">на кронштейне; зарядка PD 20 Вт,</text>
+<text x="280.0" y="346" text-anchor="middle" font-size="21" fill="#5b6475">кабель 3 м; аудио — mini-jack</text>
+<text x="280.0" y="374" text-anchor="middle" font-size="21" fill="#5b6475">(или адаптер, если iPad с USB-C)</text>
 <circle cx="470" cy="330" r="8" fill="#ffffff" stroke="#141a26" stroke-width="3"/>
 <text x="486" y="337" text-anchor="start" font-size="20" font-weight="600" fill="#ffffff"></text>
 <rect x="90" y="830" width="120" height="120" rx="14" fill="#f1ebfb" stroke="#7a4fd6" stroke-width="3" />
@@ -30,9 +30,6 @@
 <rect x="350" y="830" width="120" height="120" rx="14" fill="#f1ebfb" stroke="#7a4fd6" stroke-width="3" />
 <text x="410.0" y="872" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">ТУАЛЕТ</text>
 <text x="410.0" y="908" text-anchor="middle" font-size="21" fill="#5b6475">CRC-V</text>
-<rect x="90" y="1000" width="380" height="90" rx="14" fill="#fdecec" stroke="#c0392b" stroke-width="3" />
-<text x="280.0" y="1042" text-anchor="middle" font-size="22" font-weight="700" fill="#141a26">Выключатель 230 В</text>
-<text x="90" y="1130" font-size="19" fill="#5b6475">ставят электрики; линия 230 В → блок розеток</text>
 <rect x="620" y="130" width="1140" height="1150" rx="18" fill="none" stroke="#2b2f3a" stroke-width="3" stroke-dasharray="16 10"/>
 <text x="640" y="172" font-size="26" font-weight="700" fill="#141a26">Шкаф ExeGate 12U</text>
 <rect x="690" y="300" width="380" height="260" rx="14" fill="#1d2129" stroke="#1d2129" stroke-width="3" />
@@ -74,11 +71,11 @@
 <text x="1400" y="1040" text-anchor="middle" font-size="19" font-weight="600" fill="#141a26">RJ45 «B»</text>
 <text x="1560" y="1040" text-anchor="middle" font-size="19" font-weight="600" fill="#141a26">RJ45 «A+B»</text>
 <rect x="690" y="1100" width="380" height="140" rx="14" fill="#eef0f4" stroke="#9aa3b5" stroke-width="3" />
-<text x="880.0" y="1142" text-anchor="middle" font-size="24" font-weight="700" fill="#141a26">Блок розеток ExeGate</text>
-<text x="880.0" y="1178" text-anchor="middle" font-size="21" fill="#5b6475">CM82, Volta, CA602,</text>
+<text x="880.0" y="1142" text-anchor="middle" font-size="24" font-weight="700" fill="#141a26">Блок розеток с выключателем</text>
+<text x="880.0" y="1178" text-anchor="middle" font-size="21" fill="#5b6475">PDU-19H801: CM82, Volta, CA602,</text>
 <text x="880.0" y="1206" text-anchor="middle" font-size="21" fill="#5b6475">зарядка iPad 20 Вт</text>
-<text x="1110" y="1160" font-size="19" fill="#5b6475">ИБП SVEN — только видеорегистратор,</text>
-<text x="1110" y="1186" font-size="19" fill="#5b6475">коммутатор и роутер; звук от него не питаем</text>
+<text x="1110" y="1160" font-size="19" fill="#5b6475">Вход блока: шнур C13 → Schuko в розетку у шкафа.</text>
+<text x="1110" y="1186" font-size="19" fill="#5b6475">ИБП SVEN — отдельно: регистратор, коммутатор, роутер</text>
 <rect x="1880" y="150" width="680" height="470" rx="14" fill="#fbf1e6" stroke="#c06a1d" stroke-width="3" />
 <text x="2220.0" y="192" text-anchor="middle" font-size="30" font-weight="700" fill="#141a26">ЗАЛ</text>
 <rect x="1990" y="220" width="260" height="80" rx="14" fill="#ffffff" stroke="#9aa3b5" stroke-width="3" />
