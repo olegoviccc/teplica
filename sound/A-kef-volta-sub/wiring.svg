@@ -72,10 +72,9 @@
 <text x="1560" y="1040" text-anchor="middle" font-size="19" font-weight="600" fill="#141a26">RJ45 «A+B»</text>
 <rect x="690" y="1100" width="380" height="140" rx="14" fill="#eef0f4" stroke="#9aa3b5" stroke-width="3" />
 <text x="880.0" y="1142" text-anchor="middle" font-size="24" font-weight="700" fill="#141a26">Блок розеток с выключателем</text>
-<text x="880.0" y="1178" text-anchor="middle" font-size="21" fill="#5b6475">PDU-19H801: CM82, Volta, CA602,</text>
-<text x="880.0" y="1206" text-anchor="middle" font-size="21" fill="#5b6475">зарядка iPad 20 Вт</text>
-<text x="1110" y="1160" font-size="19" fill="#5b6475">Вход блока: шнур C13 → Schuko в розетку у шкафа.</text>
-<text x="1110" y="1186" font-size="19" fill="#5b6475">ИБП SVEN — отдельно: регистратор, коммутатор, роутер</text>
+<text x="880.0" y="1178" text-anchor="middle" font-size="21" fill="#5b6475">PDU-19H805: CM82, Volta, CA602</text>
+<text x="1110" y="1160" font-size="19" fill="#5b6475">Блок со своим шнуром 3 м — в розетку у шкафа.</text>
+<text x="1110" y="1186" font-size="19" fill="#5b6475">ИБП → PDU-19H901: регистратор, коммутатор, роутер, iPad</text>
 <rect x="1880" y="150" width="680" height="470" rx="14" fill="#fbf1e6" stroke="#c06a1d" stroke-width="3" />
 <text x="2220.0" y="192" text-anchor="middle" font-size="30" font-weight="700" fill="#141a26">ЗАЛ</text>
 <rect x="1990" y="220" width="260" height="80" rx="14" fill="#ffffff" stroke="#9aa3b5" stroke-width="3" />
