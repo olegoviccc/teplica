@@ -23,7 +23,7 @@
 |---|---|---|---|---|---|---|---|---|
 | 🟢 | 1 | Электроника | Lab.gruppen CM82, микшер 8×2 | 1 шт | 28 284 | 28 284 | [Pult.ru](https://www.pult.ru/product/miksher-lab-gruppen-cm82) | счёт Pult.ru № 2707354 от 10.11 |
 | 🟢 | 2 | Электроника | Volta LIVE 4.400, зал: 2 пары KEF (кан. 3 — под сабвуфер) | 1 шт | 33 263 | 33 263 | [Pult.ru](https://www.pult.ru/product/usilitel-moshchnosti-volta-live-4-400) | счёт Pult.ru № 2707354 от 10.11 |
-| ⚪ | 3 | Электроника | Lab.gruppen CA602, улица + туалет (2 × 60 Вт, 100 В) | есть | 35 330 | — | [Pult.ru](https://www.pult.ru/product/usilitel-lab-gruppen-lab-gruppen-ca602) | есть в наличии |
+| ⚪ | 3 | Электроника | Lab.gruppen CA1201 (вместо CA602), улица + туалет (1 × 120 Вт, 100 В) | есть | 35 330 | — | Pult.ru | есть в наличии (уточнить); ОДИН канал — улица и туалет на одной линии |
 | 🟢 | 4 | Электроника | Lab.gruppen CRC-VEU-WH (белый), регулятор зоны | 3 шт | 5 073 | 15 219 | [Pult.ru](https://www.pult.ru/product/nastennyy-regulyator-lab-gruppen-lab-gruppen-crc-veu-bk) | счёт Pult.ru № 2707354 от 10.11 |
 | 🟠 | 5 | Электроника | iPad (10,2″ с Lightning — под кабель из счёта ВИ) | 1 шт | 25 000 | 25 000 | Авито | диапазон 17–25 тыс. |
 | 🟢 | 6 | Акустика | KEF Q350 Walnut, полочная акустика (пара) | 2 пара | 39 000 | 78 000 | [Audiomania](https://www.audiomania.ru/polochnaya_akustika/kef/kef_q350.html) | счёт Аудиомании № 1881672 от 27.10 |
